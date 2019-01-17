@@ -1,0 +1,25 @@
+Script started on Thu 06 Sep 2018 06:29:52 PM EDT
+vm-hw07{atsuet01}43: hostname
+vm-hw07
+vm-hw07{atsuet01}44: who
+atsuet01 pts/0        2018-09-06 18:29 (10.245.156.160)
+bjanis01 pts/1        2018-09-06 17:50 (10.245.159.79)
+atsuet01 pts/2        2018-09-06 18:29
+awolf05  pts/4        2018-09-06 17:35 (38.122.127.226)
+vm-hw07{atsuet01}45: w
+ 18:30:00 up 2 days,  7:46,  4 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+atsuet01 pts/0    10.245.156.160   18:29    0.00s  0.13s  0.00s script
+bjanis01 pts/1    10.245.159.79    17:50   38:32   0.15s  0.15s -tcsh
+atsuet01 pts/2                     18:29    0.00s  0.09s  0.04s w
+awolf05  pts/4    38.122.127.226   17:35   48:08   0.15s  0.15s -tcsh
+vm-hw07{atsuet01}46: pwd
+/h/atsuet01/Desktop/comp11/hw1
+vm-hw07{atsuet01}47: ls -k[Kl
+total 4
+-rw-------. 1 atsuet01 games 731 Sep  6 14:59 digits.cpp
+-rw-------. 1 atsuet01 games   0 Sep  6 18:29 typescript
+vm-hw07{atsuet01}48: exit
+exit
+
+Script done on Thu 06 Sep 2018 06:30:10 PM EDT

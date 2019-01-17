@@ -1,0 +1,66 @@
+Written #0
+
+both add color and easier to use function to allow for easier editing 
+emacs has more ability to do more in(i had previously only use it to play snake)
+vim is faster and more intuative and easy to use
+I think i will use 
+
+Written #1
+
+Digits.cpp
+-(int)input: for number input
+-if |input|>=100
+	-yes: three digits or more
+	-no: if |input| >= 10
+		-yes: 2 digits
+		-no: one digit
+-if |input| > 0
+	-yes: positive
+	-no: negative
+
+Add8.cpp
+- (int)total: total of all inputs
+- (int)input: holds the user input
+- asks user for amount of numbers they want to add
+- while loop for number of number user wants to enter
+	-asks user for one number
+	-adds number to total
+	-tells user how many more numbers they have remaining to enter
+- prints out total
+
+Yoda.cpp
+- (int)temp: holds the value for where the space is
+- (string)input: holds the user input
+- (int)input size: holds the current size of the input string
+- asks for four words
+- while the input still has a word in it keep parsing the string
+	-find the space where the space is
+	-find the portion of the string after the space
+	-print that portion
+	-erase that portion
+- return statements 
+
+Change.cpp
+- (int)input: holds the amount of money
+- ask for input and stores it in input 
+- prints the input(int)divided by 25 to get the amount of quarters
+- changes input by % 25 to get the amount remaining without the quarters
+- prints the input divided by 10 to get the amount of dimes
+- chagned input by %10 to get the amount remaining without the dimes
+- prints the input / 5 to get the amount of nickles
+- changes the input by %5 to get the amount without nickles
+- print the input which is just the amount of pennies
+- return statements
+
+generate_hello.cpp
+- (string)input: name
+- cout the premade program with name in place of the variables.
+- return 0
+
+
+#2
+In yoda.cpp I kept getting an out of bounds error. 
+I fixed the issue by writing debug statments throughout my program.
+I isolated the issue to the cin staement which was only taking in the first word
+I changed the cin to getline(cin, str) which input the entire line
+

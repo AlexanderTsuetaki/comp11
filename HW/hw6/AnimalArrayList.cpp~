@@ -1,0 +1,34 @@
+#include "AnimalArrayList.h"
+#include <iostream>
+#include <string>
+AnimalArrayList::AnimalArrayList(){
+	animals = new Animal[INITIAL_CAPACITY];
+        num_animals = 0;
+        capacity = INITIAL_CAPACITY;
+}
+AnimalArrayList::~AnimalArrayList(){
+	delete [] animals;
+	delete animals;
+}
+void AnimalArrayList::add(Animal a){
+	std::cout << num_animals << " " << capacity;
+        if(num_animals == capacity){
+                expand();
+        }
+        animals[num_animals] = a;
+        num_animals += 1;
+}
+int AnimalArrayList::get_num_animals(){
+        return num_animals;
+}
+Animal AnimalArrayList::get_animal_at(int index){
+        return *(animals+index);
+}
+void AnimalArrayList::expand(){
+        Animal *temp = new Animal[capacity*2];
+        for(int i = 0; i < num_animals; i++)
+                temp[i] = animals[i];
+        capacity *= 2;
+        delete [] animals;
+        animals = temp;
+}

@@ -1,0 +1,36 @@
+1. Conditionals
+	a.
+		i.(x >= 6)
+			values note < 6 are either > 6, or = 6 as < 6 is not 
+			inclusive. thus (x < 6)
+		ii.(x > 9 or x <= 3)
+			used de morgan's law to change (x <= 9 and x > 3) to
+			(x <= 9)' or (x > 3)' --> (x > 9 or x <= 3)
+		iii.(x < 6 and x >= 3)
+			used de morgans's law to change (x >= 6 or x < 3) to
+			(x >= 6)' and (x < 3)' --> (x < 6 and x >= 3) 
+	b.
+		i.(x > 6)
+			(x > 5 or x > 3) --> (x > 3) 
+			(x > 6 and x > 3) --> if only x > 3 is true then the 
+			whole will be false. To be true x must be > 6. thus
+			it can be simplified to x > 6.
+		ii.(true)
+			If x >= 5 then the x > 4 condition will be true. if 
+			x <= 4 then the x< 5 condition will be true. as the
+			expression is an or expression the retun will always
+			be true
+
+2. Unix commands
+	a. moves file1 to the file2 directory
+	b. changes directory to dir2
+	c. prints the length of longest line in *
+	d. reads the output of file1
+
+3. Recursion
+	When setting out mats for tae kwon do, the mats are set up recursivly.
+Check to see if at the end of the room, if not puts another mat down, moves it
+to the correct area each time checking if there is a mat on the left side.
+if there is no mat on the left, move one mat to the right and work on that
+line until completion or there is no mat to the left of the current mat.
+ continues until the room is fully matted. 

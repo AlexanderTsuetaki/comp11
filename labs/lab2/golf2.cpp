@@ -1,0 +1,169 @@
+/*
+ * Comp 11
+ * Lab 1
+ * 
+ * golf.cpp
+ *
+ * purpose: practice using booleans, conditionals, and constants
+ *
+ *          Program reads data about temperature, day, time, wind,
+ *          whether it's raining, then prints out the price of
+ *          admission to Minnie's Mini Golf for those conditions.
+ *
+ * modified by:  Mark A. Sheldon
+ * on:           Fall 2018
+ */
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+// days of the week
+const int SUN = 0, MON = 1, TUE = 2, WED = 3, THR = 4, FRI = 5, SAT = 6;
+
+// constants for rules
+const double    BASE_PRICE            = 9.0;
+const int       HIGH_TEMP_CUTOFF      = 80;
+const int       LOW_TEMP_CUTOFF       = 65;
+const double    PER_DEGREE_PENALTY    = 0.10;
+const int       EVENING_START         = 17;
+const double    WEEKEND_EVE_SURCHARGE = 1.00;
+const double    RAIN_PENALTY          = 2.00;
+const int       RAIN_YES              = 1;
+const int       WIND_GRANULARITY      = 15;
+const double    WIND_PENALTY          = 1.50;
+
+int get_int(string);
+double tempMod(int);
+double peakMod(int,int);
+double rainMod(int);
+double windMod(int);
+
+int main() 
+{
+        // -- define vars for input and a value used in the tests below
+        int     tempF, dayOweek, hour, rainP, windMPH;
+        double  price;
+
+        //
+        // Avoid unused variable warnings
+        //
+        (void) MON; 
+        (void) TUE; 
+        (void) WED; 
+        (void) THR; 
+        (void) FRI;
+
+        // -- set the precision 
+        cout << setiosflags(ios::fixed) << setprecision(2);
+        
+        // -- Get data from user
+        tempF = get_int("Tempurature (fahrenheit)? ");
+
+	dayOweek = get_int("Day of week (0 = Sun, 1 = Mon, ..., 6 = Sat) ");
+	
+	hour = get_int("Hour of day (0..23)? ");
+
+	rainP = get_int("Is it raining (0 = no, 1 = yes) ");
+
+	windMPH = get_int("Wind speed (MPH)?");
+
+        // -- compute price based on these values
+
+        price = BASE_PRICE;             // start here then adjust
+        //
+        // Adjust for temperature
+        //
+	price += tempMod(tempF);
+        
+        
+        //
+        // Adjust for peak time periods
+        //
+        price += peakMod(dayOweek, hour);
+        //
+        // Adjust for rain
+        //
+	price += rainMod(rainP);
+        
+        //
+        // Adjust for wind:  subtract for each WIND_GRANULARITY unit,
+        //                   but NOT each fraction thereof.
+        //                   I. e., if WIND_GRANULARITY is 15, then
+        //                   20 MPH of wind only gets 1 WIND_PENALTY.
+        //
+        price += windMod(windMPH);
+        // -- report price to user
+
+        cout << "Price: " << price << endl;
+
+        return 0;
+}
+
+
+// get_int
+//        purpose: returns the number version of a string
+//        arguemnts: string prompt the number to be changed to an int
+//        returns: integer value of the number
+//        notes:
+// 
+int get_int(string prompt){
+	  int number = 0;
+	  cout << prompt;
+	  cin >> number;
+	  return number;
+}
+
+// tempMod
+//        purpose:to apply the temperature price modification
+//        arugments:temp=temperature
+//        returns:deltaPrice = the change in price
+//
+double tempMod(int temp){
+        double deltaPrice = 0;
+	int deltaDegrees = 0;
+        if (temp > HIGH_TEMP_CUTOFF) {
+                deltaDegrees = temp - HIGH_TEMP_CUTOFF;
+                deltaPrice -= PER_DEGREE_PENALTY * deltaDegrees;
+        } else if (temp < LOW_TEMP_CUTOFF) {
+                deltaDegrees = LOW_TEMP_CUTOFF - temp;
+                deltaPrice -= PER_DEGREE_PENALTY * deltaDegrees;
+        }
+	return deltaPrice;
+}
+
+// peakMod
+//        purpose:to apply the peak time price modification
+//        arugments:temp = day of week,  temp2 = hour of day
+//        returns:deltaPrice = the change in price
+//
+double peakMod(int temp, int temp2){
+        double deltaPrice = 0;
+        if ((temp == SAT) or (temp == SUN) or (temp2 > EVENING_START))
+                deltaPrice += WEEKEND_EVE_SURCHARGE;
+        return deltaPrice;
+}
+// rainMod
+//        purpose:to apply the rain price modification
+//        arugments:temp= if raining(0 if no 1 if yes)
+//        returns:deltaPrice = the change in price
+//
+double rainMod(int temp){
+        double deltaPrice = 0;
+	if (temp == RAIN_YES)
+                deltaPrice -= RAIN_PENALTY;
+	return deltaPrice;
+
+}
+
+// windMod
+//        purpose:to apply the wind price modification
+//        arugments:temp= wind in MPH
+//        returns:deltaPrice = the change in price
+//
+double windMod(int temp){
+         double deltaPrice = 0;
+         deltaPrice -= (temp / WIND_GRANULARITY) * WIND_PENALTY;
+	return deltaPrice;
+}

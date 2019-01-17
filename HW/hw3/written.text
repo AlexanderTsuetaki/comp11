@@ -1,0 +1,49 @@
+1 Functions
+-good for modularity > functions can be used in a varitey of situations, while
+being pluged into any particular class.  
+-good for abstraction > functions can represent a concept that is able to be 
+used regardless of what the class and program at large does. 
+-good for memory econemy > makes it so that parts only nessisary for a ceritan
+part of the main function are active at a time and then frees up memory in the
+stack
+
+2 Pseudocode
+-pattern.cpp
+-variables
+	-First String
+	-Second String
+	-number of lines
+-Message()      ->     (Function)
+	-outputs a message to give instructions of how to input
+-generate line pattern()     ->     (Function)
+	-gets the line pattern
+	-recursion for lines of 5 of the two inputs
+-Pattern()      ->      (Function)
+	-gets the pattern 5 times with alternation between which string starts
+	-pattern(string 1, string 2)-> pattern(string 2,string1)
+--i need an intro message to tell users how to use my program
+--i need a function that makes each individual line
+--i need a gunction to make a wider web with the individual lines
+
+3 Recursive function
+- returns whatever value is smaller -no matter what you start with, so the 
+value that will return will be either a or b as the function iterates by 1
+thus the function will iterate untill a = b while a or b is counting down by 1
+
+- returns a + b - so long as a and b are greater than 0 c+2 and both 
+variables -1 (total -2) then once one of the variables a or b reaches 0 
+it changes to c+1 (total -1) and  adds untill both are 0. c in increases
+proportionatly as a and b decrease, thus c should be the the total of a+b
+
+- returns the greatest common factor. the function will end when a = b
+a and b will decrease by eachother untill that occures. if there is a common
+factor, it will eventually be iterating by that until they = each other or 
+over run one another by a factor, that factor may not be the 
+
+25,45 >> 25,20 >> 5,20 >> 5,15 >> 5,10 >> 5,5 greatest common multiple = 5
+36,42 >> 36,6 >> 30,6 >> 24,6 >> 18,6 >> 12,6 >> 6,6 greatest common mult = 6
+35,12 >> 23,12 >> 11,12 >> 11,1 >> ... 1,1 greatest common multiple = 1
+64,24 >> 40,24 >> 16,24 >> 16,8 >> 8,8 greatest common multiple = 8
+
+
+

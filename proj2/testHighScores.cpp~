@@ -1,0 +1,41 @@
+// testHighScores.cpp
+//           notes: tests the highScoresList.cpp file
+//          
+// Date Modified: 10/6/18
+// Author: Alexander Tsuetaki
+//
+#include <iostream>
+#include <fstream>
+
+#include <highScoresList.h>
+
+int main(){
+	highScoresList testList;
+	//testList.load();
+	testList.clear();
+        testList.print();
+	testList.printTop5();
+	testList.keepTop10();
+	testList.insert("first", 6900);
+	testList.insert("second",100);
+	testList.insert("third", 1050);
+	testList.insert("fourth", 50);
+	testList.insert("fifth", 200);
+	testList.insert("sixth", 8);
+	testList.insert("seventh" , 300);
+	testList.insert("eight", 2048);
+	testList.insert("ninth", 100030);
+	testList.insert("tenth", 290);
+	testList.insert("eleventh", 24059);
+	testList.insert("first", 2000);
+	testList.print();
+	testList.printTop5();
+	testList.keepTop10();
+	testList.print();
+	testList.save();
+	testList.printUser("first");
+	testList.print();
+	testList.clear();
+	testList.print();
+	return 0;
+}

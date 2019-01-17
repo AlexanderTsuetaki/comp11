@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# get the stuff from lab7
+#
+	WHERE=`pwd | tr '[A-Z]' '[a-z]'`
+	case $WHERE in
+		*lab*7)	;;
+		*)	echo "Please run this from your lab7 folder"
+			exit 1
+			;;
+	esac
+
+	cp /comp/11/files/lab7/name_selsort.cpp	./
+	ln -s /comp/11/files/lab7/data*		./

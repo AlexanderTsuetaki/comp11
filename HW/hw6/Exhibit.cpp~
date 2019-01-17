@@ -1,0 +1,81 @@
+// Exhibit.cpp
+//      purpose: to hold the function of the Exhibit.h header
+// Author: Alexander Tsuetaki
+// Date modified: 11/17/19
+
+#include "Exhibit.h"
+//#include <string>
+#include <iostream> 
+
+Exhibit::Exhibit(std::string n, int th, std::string ty){
+	name = n;
+	exhibitAnimals = new AnimalArrayList;
+	theme = th;
+	type = ty;
+}
+Exhibit::~Exhibit(){
+	delete [] exhibitAnimals;
+	delete exhibitAnimals;
+	theme = 0;
+}
+std::string Exhibit::themeChange(int t){
+	if(t == 0)
+		return "name";
+	if(t == 1)
+		return "origin";
+	if(t == 2)
+		return "diet";
+	if(t == 3)
+		return "ear_size";
+	if(t == 4)
+		return "type";
+	return NULL;
+}
+std::string Exhibit::returnType(){
+	return type;
+}
+bool Exhibit::belongs(Animal a){
+	if(theme == 0){
+		return in_Exhibit_name(a.name);
+	}
+	if(theme == 1){
+		return (type == a.origin);
+	}
+	if(theme == 2){
+		return (type == a.diet);
+	}
+	if(theme == 3){
+		return (type == a.ear_size);
+	}
+	if(theme == 4){
+		return (type == a.type);
+	}
+	return false;
+}
+void Exhibit::add_animal(Animal a){
+	(*exhibitAnimals).add(a);
+}
+bool Exhibit::in_Exhibit_name(std::string animal_name){
+        for(int i = 0; i < (*exhibitAnimals).get_num_animals(); i++){
+                if(animal_name == (*exhibitAnimals).get_animal_at(i).name){
+			std::cout << name;
+			return true;
+                }
+        }
+        return false;
+}
+
+void Exhibit::print_list(){
+	std::string themec = themeChange(theme);
+	std::cout << "Exhibit: " << name << std::endl;
+	std::cout << "Characteristic: "<< themec << std::endl;
+	std::cout << "Characterisitc Value " << type << std:: endl;
+        for(int i = 0; i < (*exhibitAnimals).get_num_animals(); i++){
+		std::cout << "---- Animal : "
+                          << (*exhibitAnimals).get_animal_at(i).name
+                          << std::endl;
+
+        }
+}
+
+

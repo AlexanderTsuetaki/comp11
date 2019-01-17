@@ -1,0 +1,4050 @@
+The Patriot
+2000
+113330342
+Roland Emmerich
+Mel Gibson
+Heath Ledger
+Joely Richardson
+Jason Isaacs
+Chris Cooper
+Toy Story
+1995
+191773049
+John Lasseter
+Tom Hanks
+Tim Allen
+Don Rickles
+Jim Varney
+Wallace Shawn
+Beverly Hills Cop II
+1987
+153665036
+Tony Scott
+Eddie Murphy
+Judge Reinhold
+John Ashton
+Jurgen Prochnow
+Ronny Cox
+S.W.A.T.
+2003
+116643346
+Clark Johnson
+Samuel L. Jackson
+Colin Farrell
+Michelle Rodriguez
+LL Cool J
+Josh Charles
+The Mummy Returns
+2001
+202007640
+Stephen Sommers
+Brendan Fraser
+Rachel Weisz
+John Hannah
+Arnold Vosloo
+Oded Fehr
+Raiders of the Lost Ark
+1981
+242374454
+Steven Spielberg
+Harrison Ford
+Karen Allen
+Paul Freeman
+Ronald Lacey
+John Rhys-Davies
+The Aviator
+2004
+102608827
+Martin Scorsese
+Leonardo DiCaprio
+Cate Blanchett
+Kate Beckinsale
+John C. Reilly
+Alec Baldwin
+The Mask
+1994
+119938730
+Chuck Russell
+Jim Carrey
+Peter Riegert
+Peter Greene
+Amy Yasbeck
+Richard Jeni
+Wild Wild West
+1999
+113745408
+Barry Sonnenfeld
+Will Smith
+Kevin Kline
+Kenneth Branagh
+Salma Hayek
+M. Emmet Walsh
+Mr. & Mrs. Smith
+2005
+186336103
+Doug Liman
+Brad Pitt
+Angelina Jolie
+Vince Vaughn
+Adam Brody
+Kerry Washington
+Alvin and the Chipmunks: The Squeakquel
+2009
+217367092
+Betty Thomas
+Zachary Levi
+David Cross
+Jason Lee
+Justin Long
+Matthew Gray Gubler
+American Beauty
+1999
+130058047
+Sam Mendes
+Kevin Spacey
+Annette Bening
+Thora Birch
+Wes Bentley
+Mena Suvari
+Rush Hour 3
+2007
+140080850
+Brett Ratner
+Chris Tucker
+Jackie Chan
+Max von Sydow
+Hiroyuki Sanada
+Yvan Attal
+Men in Black II
+2002
+190418803
+Barry Sonnenfeld
+Tommy Lee Jones
+Will Smith
+Rip Torn
+Lara Flynn Boyle
+Johnny Knoxville
+The Little Mermaid
+1989
+109859444
+Ron Clements
+Rene Auberjonois
+Christopher Daniel Barnes
+Jodi Benson
+Pat Carroll
+Paddi Edwards
+Hook
+1991
+119654900
+Steven Spielberg
+Dustin Hoffman
+Robin Williams
+Julia Roberts
+Bob Hoskins
+Maggie Smith
+National Treasure
+2004
+173005002
+Jon Turteltaub
+Nicolas Cage
+Diane Kruger
+Justin Bartha
+Sean Bean
+Jon Voight
+Con Air
+1997
+101087161
+Simon West
+Nicolas Cage
+John Cusack
+John Malkovich
+Ving Rhames
+Nick Chinlund
+The Incredible Hulk
+2008
+134518390
+Louis Leterrier
+Edward Norton
+Liv Tyler
+Tim Roth
+William Hurt
+Tim Blake Nelson
+Platoon
+1986
+137963328
+Oliver Stone
+Keith David
+Forest Whitaker
+Francesco Quinn
+Kevin Dillon
+John C. McGinley
+Star Wars: Episode V - The Empire Strikes Back
+1980
+290158751
+Irvin Kershner
+Mark Hamill
+Harrison Ford
+Carrie Fisher
+Billy Dee Williams
+Anthony Daniels
+Ransom
+1996
+136448821
+Ron Howard
+Mel Gibson
+Rene Russo
+Brawley Nolte
+Gary Sinise
+Delroy Lindo
+New Moon
+2009
+296301843
+Chris Weitz
+Kristen Stewart
+Taylor Lautner
+Robert Pattinson
+Billy Burke
+Ashley Greene
+Porky's
+1982
+105500000
+Bob Clark
+Dan Monahan
+Mark Herrier
+Wyatt Knight
+Roger Wilson
+Cyril O'Reilly
+War of the Worlds
+2005
+234277056
+Steven Spielberg
+Tom Cruise
+Dakota Fanning
+Miranda Otto
+Justin Chatwin
+Tim Robbins
+Driving Miss Daisy
+1989
+106593296
+Bruce Beresford
+Morgan Freeman
+Jessica Tandy
+Dan Aykroyd
+Patti LuPone
+Esther Rolle
+The Lord of the Rings: The Fellowship of the Ring
+2001
+313837577
+Peter Jackson
+Alan Howard
+Noel Appleby
+Sean Astin
+Sala Baker
+Sean Bean
+Madagascar: Escape 2 Africa
+2008
+179982968
+Eric Darnell
+Ben Stiller
+Chris Rock
+David Schwimmer
+Jada Pinkett Smith
+Sacha Baron Cohen
+Home Alone
+1990
+285761243
+Chris Columbus
+Macaulay Culkin
+Joe Pesci
+Daniel Stern
+John Heard
+Roberts Blossom
+Superbad
+2007
+121463226
+Greg Mottola
+Jonah Hill
+Michael Cera
+Christopher Mintz-Plasse
+Bill Hader
+Seth Rogen
+The Perfect Storm
+2000
+182618434
+Wolfgang Petersen
+George Clooney
+Mark Wahlberg
+Diane Lane
+John C. Reilly
+William Fichtner
+King Kong
+2005
+218051260
+Peter Jackson
+Naomi Watts
+Jack Black
+Adrien Brody
+Thomas Kretschmann
+Colin Hanks
+The Mummy: Tomb of the Dragon Emperor
+2008
+102176165
+Rob Cohen
+Brendan Fraser
+Jet Li
+Maria Bello
+John Hannah
+Michelle Yeoh
+The Silence of the Lambs
+1991
+130727000
+Jonathan Demme
+Jodie Foster
+Scott Glenn
+Anthony Hopkins
+Ted Levine
+Anthony Heald
+X-Men
+2000
+157299717
+Bryan Singer
+Hugh Jackman
+Patrick Stewart
+Ian McKellen
+Famke Janssen
+James Marsden
+The Santa Clause 2
+2002
+139225854
+Michael Lembeck
+Tim Allen
+Elizabeth Mitchell
+David Krumholtz
+Eric Lloyd
+Judge Reinhold
+Rain Man
+1988
+172825435
+Barry Levinson
+Dustin Hoffman
+Tom Cruise
+Valeria Golino
+Gerald R. Molen
+Jack Murdock
+The Polar Express
+2004
+176610096
+Robert Zemeckis
+Tom Hanks
+Leslie Zemeckis
+Eddie Deezen
+Nona Gaye
+Peter Scolari
+A Few Good Men
+1992
+141340178
+Rob Reiner
+Tom Cruise
+Jack Nicholson
+Demi Moore
+Kevin Bacon
+Kiefer Sutherland
+Marley & Me
+2008
+143151473
+David Frankel
+Owen Wilson
+Jennifer Aniston
+Eric Dane
+Kathleen Turner
+Alan Arkin
+The Passion of the Christ
+2004
+370270943
+Mel Gibson
+James Caviezel
+Maia Morgenstern
+Christo Jivkov
+Francesco De Vito
+Monica Bellucci
+Rambo: First Blood Part II
+1985
+150415432
+George P. Cosmatos
+Sylvester Stallone
+Richard Crenna
+Charles Napier
+Steven Berkoff
+Julia Nickson
+Enemy of the State
+1998
+111544445
+Tony Scott
+Will Smith
+Gene Hackman
+Jon Voight
+Lisa Bonet
+Regina King
+Sleepy Hollow
+1999
+101068340
+Tim Burton
+Johnny Depp
+Christina Ricci
+Miranda Richardson
+Michael Gambon
+Casper Van Dien
+Honey, I Shrunk the Kids
+1989
+130724200
+Joe Johnston
+Rick Moranis
+Matt Frewer
+Marcia Strassman
+Kristine Sutherland
+Thomas Wilson Brown
+Enchanted
+2007
+127706877
+Kevin Lima
+Amy Adams
+Patrick Dempsey
+James Marsden
+Timothy Spall
+Idina Menzel
+Madagascar
+2005
+193136719
+Eric Darnell
+Ben Stiller
+Chris Rock
+David Schwimmer
+Jada Pinkett Smith
+Sacha Baron Cohen
+Van Helsing
+2004
+120025245
+Stephen Sommers
+Hugh Jackman
+Kate Beckinsale
+Richard Roxburgh
+David Wenham
+Shuler Hensley
+The Da Vinci Code
+2006
+217536138
+Ron Howard
+Tom Hanks
+Audrey Tautou
+Ian McKellen
+Jean Reno
+Paul Bettany
+The Devil Wears Prada
+2006
+124732962
+David Frankel
+Meryl Streep
+Anne Hathaway
+Emily Blunt
+Stanley Tucci
+Simon Baker
+Spider-Man 3
+2007
+336530303
+Sam Raimi
+Tobey Maguire
+Kirsten Dunst
+James Franco
+Thomas Haden Church
+Topher Grace
+Pearl Harbor
+2001
+198539855
+Michael Bay
+Ben Affleck
+Josh Hartnett
+Kate Beckinsale
+Cuba Gooding Jr.
+Jon Voight
+Get Smart
+2008
+130313314
+Peter Segal
+Steve Carell
+Anne Hathaway
+Dwayne Johnson
+Alan Arkin
+Terence Stamp
+X-Men: The Last Stand
+2006
+234360014
+Brett Ratner
+Hugh Jackman
+Halle Berry
+Ian McKellen
+Patrick Stewart
+Famke Janssen
+Gremlins
+1984
+148170000
+Joe Dante
+Hoyt Axton
+John Louie
+Keye Luke
+Don Steele
+Susan Burgess
+Step Brothers
+2008
+100468793
+Adam McKay
+Will Ferrell
+John C. Reilly
+Mary Steenburgen
+Richard Jenkins
+Adam Scott
+The Firm
+1993
+158348400
+Sydney Pollack
+Tom Cruise
+Jeanne Tripplehorn
+Gene Hackman
+Hal Holbrook
+Terry Kinney
+Big Daddy
+1999
+163479795
+Dennis Dugan
+Adam Sandler
+Joey Lauren Adams
+Jon Stewart
+Cole Sprouse
+Dylan Sprouse
+101 Dalmatians
+1996
+136182161
+Stephen Herek
+Glenn Close
+Jeff Daniels
+Joely Richardson
+Joan Plowright
+Hugh Laurie
+The Flintstones
+1994
+130512915
+Brian Levant
+John Goodman
+Elizabeth Perkins
+Rick Moranis
+Rosie O'Donnell
+Kyle MacLachlan
+The Princess and the Frog
+2009
+103702725
+Ron Clements
+Anika Noni Rose
+Bruno Campos
+Keith David
+Michael-Leon Wooley
+Jennifer Cody
+Anger Management
+2003
+133756285
+Peter Segal
+Adam Sandler
+Jack Nicholson
+Marisa Tomei
+Luis Guzman
+Jonathan Loughran
+Star Trek
+2009
+257704099
+J.J. Abrams
+Chris Pine
+Zachary Quinto
+Leonard Nimoy
+Eric Bana
+Bruce Greenwood
+Tootsie
+1982
+177200000
+Sydney Pollack
+Dustin Hoffman
+Jessica Lange
+Teri Garr
+Dabney Coleman
+Charles Durning
+Terminator Salvation
+2009
+125320003
+McG
+Christian Bale
+Sam Worthington
+Moon Bloodgood
+Helena Bonham Carter
+Anton Yelchin
+The Lord of the Rings: The Return of the King
+2003
+377019252
+Peter Jackson
+Noel Appleby
+Alexandra Astin
+Sean Astin
+David Aston
+John Bach
+Star Wars: Episode II - Attack of the Clones
+2002
+310675583
+George Lucas
+Ewan McGregor
+Natalie Portman
+Hayden Christensen
+Christopher Lee
+Samuel L. Jackson
+The Bourne Supremacy
+2004
+176049130
+Paul Greengrass
+Matt Damon
+Franka Potente
+Brian Cox
+Julia Stiles
+Karl Urban
+Beauty and the Beast
+1991
+171301428
+Gary Trousdale
+Paige O'Hara
+Robby Benson
+Richard White
+Jerry Orbach
+David Ogden Stiers
+Erin Brockovich
+2000
+125548685
+Steven Soderbergh
+Julia Roberts
+David Brisbin
+Dawn Didawick
+Albert Finney
+Valente Rodriguez
+The Rock
+1996
+134006721
+Michael Bay
+Sean Connery
+Nicolas Cage
+Ed Harris
+John Spencer
+David Morse
+The Blair Witch Project
+1999
+140530114
+Daniel Myrick
+Heather Donahue
+Joshua Leonard
+Michael C. Williams
+Bob Griffith
+Jim King
+Notting Hill
+1999
+116006080
+Roger Michell
+Julia Roberts
+Hugh Grant
+Richard McCabe
+Rhys Ifans
+James Dreyfus
+Bruce Almighty
+2003
+242589580
+Tom Shadyac
+Jim Carrey
+Morgan Freeman
+Jennifer Aniston
+Philip Baker Hall
+Catherine Bell
+Jerry Maguire
+1996
+153620822
+Cameron Crowe
+Tom Cruise
+Cuba Gooding Jr.
+Renee Zellweger
+Kelly Preston
+Jerry O'Connell
+3 Men and a Baby
+1987
+167780960
+Leonard Nimoy
+Tom Selleck
+Steve Guttenberg
+Ted Danson
+Nancy Travis
+Margaret Colin
+Avatar
+2009
+721425412
+James Cameron
+Sam Worthington
+Zoe Saldana
+Sigourney Weaver
+Stephen Lang
+Joel Moore
+The Towering Inferno
+1974
+116000000
+Irwin Allen
+Steve McQueen
+Paul Newman
+William Holden
+Faye Dunaway
+Fred Astaire
+Lethal Weapon 2
+1989
+147253986
+Richard Donner
+Mel Gibson
+Danny Glover
+Joe Pesci
+Joss Ackland
+Derrick O'Connor
+The Mummy
+1999
+155247825
+Stephen Sommers
+Brendan Fraser
+Rachel Weisz
+John Hannah
+Arnold Vosloo
+Kevin J. O'Connor
+Superman Returns
+2006
+200069408
+Bryan Singer
+Brandon Routh
+Kate Bosworth
+Kevin Spacey
+James Marsden
+Parker Posey
+Dinosaur
+2000
+137748063
+Eric Leighton
+D.B. Sweeney
+Alfre Woodard
+Ossie Davis
+Max Casella
+Hayden Panettiere
+Gran Torino
+2008
+148085755
+Clint Eastwood
+Clint Eastwood
+Christopher Carley
+Bee Vang
+Ahney Her
+Brian Haley
+Twilight
+2008
+191449475
+Catherine Hardwicke
+Kristen Stewart
+Robert Pattinson
+Billy Burke
+Peter Facinelli
+Elizabeth Reaser
+Terms of Endearment
+1983
+108423489
+James L. Brooks
+Shirley MacLaine
+Debra Winger
+Jack Nicholson
+Danny DeVito
+Jeff Daniels
+Walk the Line
+2005
+119518352
+James Mangold
+Joaquin Phoenix
+Reese Witherspoon
+Ginnifer Goodwin
+Robert Patrick
+Dallas Roberts
+The Day After Tomorrow
+2004
+186739919
+Roland Emmerich
+Dennis Quaid
+Jake Gyllenhaal
+Emmy Rossum
+Dash Mihok
+Jay O. Sanders
+Teenage Mutant Ninja Turtles
+1990
+135270000
+Steve Barron
+Josh Pais
+Michelan Sisti
+Leif Tilden
+David Forman
+Robbie Rist
+The Matrix Reloaded
+2003
+281492479
+Andy Wachowski
+Ray Anthony
+Christine Anu
+Andy Arness
+Alima Ashton-Sheibu
+Helmut Bakaitis
+Knocked Up
+2007
+148734225
+Judd Apatow
+Seth Rogen
+Katherine Heigl
+Paul Rudd
+Leslie Mann
+Jason Segel
+American Graffiti
+1973
+115000000
+George Lucas
+Richard Dreyfuss
+Ron Howard
+Paul Le Mat
+Charles Martin Smith
+Cindy Williams
+Juno
+2007
+143492840
+Jason Reitman
+Ellen Page
+Michael Cera
+Jennifer Garner
+Jason Bateman
+Allison Janney
+Over the Hedge
+2006
+155019340
+Tim Johnson
+Bruce Willis
+Garry Shandling
+Steve Carell
+Wanda Sykes
+William Shatner
+Chicken Run
+2000
+106793915
+Peter Lord
+Phil Daniels
+Lynn Ferguson
+Mel Gibson
+Tony Haygarth
+Jane Horrocks
+District 9
+2009
+115646235
+Neill Blomkamp
+Sharlto Copley
+Jason Cope
+Nathalie Boltt
+Sylvaine Strike
+Elizabeth Mkandawie
+Scary Movie
+2000
+156997084
+Keenen Ivory Wayans
+Carmen Electra
+Dave Sheridan
+Frank B. Moore
+Giacomo Baessato
+Kyle Graham
+The Dark Knight
+2008
+533316061
+Christopher Nolan
+Christian Bale
+Heath Ledger
+Aaron Eckhart
+Michael Caine
+Maggie Gyllenhaal
+Fantastic Four
+2005
+154695569
+Tim Story
+Ioan Gruffudd
+Jessica Alba
+Chris Evans
+Michael Chiklis
+Julian McMahon
+Independence Day
+1996
+306124059
+Roland Emmerich
+Will Smith
+Bill Pullman
+Jeff Goldblum
+Mary McDonnell
+Judd Hirsch
+I, Robot
+2004
+144795350
+Alex Proyas
+Will Smith
+Bridget Moynahan
+Alan Tudyk
+James Cromwell
+Bruce Greenwood
+Charlie's Angels
+2000
+125305545
+McG
+Cameron Diaz
+Drew Barrymore
+Lucy Liu
+Bill Murray
+Sam Rockwell
+I Now Pronounce You Chuck & Larry
+2007
+119684970
+Dennis Dugan
+Adam Sandler
+Kevin James
+Jessica Biel
+Dan Aykroyd
+Ving Rhames
+Wayne's World
+1992
+121697350
+Penelope Spheeris
+Mike Myers
+Dana Carvey
+Rob Lowe
+Tia Carrere
+Brian Doyle-Murray
+Star Wars
+1977
+460935665
+George Lucas
+Mark Hamill
+Harrison Ford
+Carrie Fisher
+Peter Cushing
+Alec Guinness
+I Am Legend
+2007
+256386216
+Francis Lawrence
+Will Smith
+Alice Braga
+Charlie Tahan
+Salli Richardson-Whitfield
+Willow Smith
+Ratatouille
+2007
+206435493
+Brad Bird
+Patton Oswalt
+Ian Holm
+Lou Romano
+Brian Dennehy
+Peter Sohn
+Pirates of the Caribbean: Dead Man's Chest
+2006
+423032628
+Gore Verbinski
+Johnny Depp
+Orlando Bloom
+Keira Knightley
+Jack Davenport
+Bill Nighy
+Bad Boys II
+2003
+138396624
+Michael Bay
+Martin Lawrence
+Will Smith
+Jordi Molla
+Gabrielle Union
+Peter Stormare
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+2006
+128505958
+Larry Charles
+Sacha Baron Cohen
+Ken Davitian
+Luenell
+Pamela Anderson
+Bob Barr
+My Best Friend's Wedding
+1997
+126805112
+P.J. Hogan
+Julia Roberts
+Dermot Mulroney
+Cameron Diaz
+Rupert Everett
+Philip Bosco
+The Fugitive
+1993
+183875760
+Andrew Davis
+Harrison Ford
+Tommy Lee Jones
+Sela Ward
+Julianne Moore
+Joe Pantoliano
+Cloudy with a Chance of Meatballs
+2009
+124870275
+Phil Lord
+Bill Hader
+Anna Faris
+James Caan
+Andy Samberg
+Bruce Campbell
+Casino Royale
+2006
+167007184
+Martin Campbell
+Daniel Craig
+Eva Green
+Mads Mikkelsen
+Judi Dench
+Jeffrey Wright
+Phenomenon
+1996
+104632573
+Jon Turteltaub
+John Travolta
+Kyra Sedgwick
+Forest Whitaker
+Robert Duvall
+Jeffrey DeMunn
+The Last Samurai
+2003
+111110575
+Edward Zwick
+Ken Watanabe
+Tom Cruise
+William Atherton
+Chad Lindberg
+Ray Godshall Sr.
+Daddy Day Care
+2003
+104148781
+Steve Carr
+Eddie Murphy
+Jeff Garlin
+Steve Zahn
+Regina King
+Kevin Nealon
+Horton Hears a Who!
+2008
+154529187
+Jimmy Hayward
+Jim Carrey
+Steve Carell
+Carol Burnett
+Will Arnett
+Seth Rogen
+Fun with Dick and Jane
+2005
+110332737
+Dean Parisot
+Jim Carrey
+Tea Leoni
+Alec Baldwin
+Richard Jenkins
+Angie Harmon
+Dick Tracy
+1990
+103738726
+Warren Beatty
+Warren Beatty
+Charlie Korsmo
+Michael Donovan O'Donnell
+Jim Wilkey
+Stig Eldred
+Jaws 2
+1978
+102922376
+Jeannot Szwarc
+Roy Scheider
+Lorraine Gary
+Murray Hamilton
+Joseph Mascolo
+Jeffrey Kramer
+Rush Hour
+1998
+141153686
+Brett Ratner
+Jackie Chan
+Chris Tucker
+Tom Wilkinson
+Tzi Ma
+Mark Rolston
+Armageddon
+1998
+201573391
+Michael Bay
+Bruce Willis
+Billy Bob Thornton
+Ben Affleck
+Liv Tyler
+Will Patton
+Valentine's Day
+2010
+106557329
+Garry Marshall
+Jessica Alba
+Kathy Bates
+Jessica Biel
+Bradley Cooper
+Eric Dane
+A Time to Kill
+1996
+108706165
+Joel Schumacher
+Matthew McConaughey
+Sandra Bullock
+Samuel L. Jackson
+Kevin Spacey
+Oliver Platt
+Scream 2
+1997
+101334374
+Wes Craven
+David Arquette
+Neve Campbell
+Courteney Cox
+Sarah Michelle Gellar
+Jamie Kennedy
+The Lion King
+1994
+328423001
+Roger Allers
+Jonathan Taylor Thomas
+Matthew Broderick
+Jeremy Irons
+James Earl Jones
+Moira Kelly
+National Treasure: Book of Secrets
+2007
+219961501
+Jon Turteltaub
+Nicolas Cage
+Justin Bartha
+Diane Kruger
+Jon Voight
+Helen Mirren
+Star Wars: Episode I - The Phantom Menace
+1999
+431065444
+George Lucas
+Liam Neeson
+Ewan McGregor
+Natalie Portman
+Jake Lloyd
+Ian McDiarmid
+Shrek
+2001
+267652016
+Andrew Adamson
+Mike Myers
+Eddie Murphy
+Cameron Diaz
+John Lithgow
+Vincent Cassel
+Ocean's Thirteen
+2007
+117144465
+Steven Soderbergh
+Brad Pitt
+George Clooney
+Matt Damon
+Michael Mantell
+Elliott Gould
+The Curious Case of Benjamin Button
+2008
+127490802
+David Fincher
+Cate Blanchett
+Julia Ormond
+Faune A. Chambers
+Elias Koteas
+Donna DuPlantier
+Evan Almighty
+2007
+100289690
+Tom Shadyac
+Steve Carell
+Morgan Freeman
+Lauren Graham
+Johnny Simmons
+Graham Phillips
+Minority Report
+2002
+132014112
+Steven Spielberg
+Tom Cruise
+Max von Sydow
+Steve Harris
+Neal McDonough
+Patrick Kilpatrick
+Rush Hour 2
+2001
+226138454
+Brett Ratner
+Jackie Chan
+Chris Tucker
+John Lone
+Ziyi Zhang
+Roselyn Sanchez
+Sherlock Holmes
+2009
+207022408
+Guy Ritchie
+Robert Downey Jr.
+Jude Law
+Rachel McAdams
+Mark Strong
+Eddie Marsan
+Die Another Day
+2002
+160201106
+Lee Tamahori
+Pierce Brosnan
+Halle Berry
+Toby Stephens
+Rosamund Pike
+Rick Yune
+The General's Daughter
+1999
+102678089
+Simon West
+John Travolta
+Madeleine Stowe
+James Cromwell
+Timothy Hutton
+Leslie Stefanson
+True Lies
+1994
+146282411
+James Cameron
+Arnold Schwarzenegger
+Jamie Lee Curtis
+Tom Arnold
+Bill Paxton
+Charlton Heston
+The Birdcage
+1996
+123986682
+Mike Nichols
+Robin Williams
+Gene Hackman
+Nathan Lane
+Dianne Wiest
+Dan Futterman
+Men in Black
+1997
+250147615
+Barry Sonnenfeld
+Tommy Lee Jones
+Will Smith
+Linda Fiorentino
+Vincent D'Onofrio
+Rip Torn
+Good Morning, Vietnam
+1987
+123922370
+Barry Levinson
+Robin Williams
+Forest Whitaker
+Tung Thanh Tran
+Chintara Sukapatana
+Bruno Kirby
+Cars
+2006
+244052771
+John Lasseter
+Owen Wilson
+Paul Newman
+Bonnie Hunt
+Larry The Cable Guy
+Cheech Marin
+Charlie and the Chocolate Factory
+2005
+206456431
+Tim Burton
+Johnny Depp
+Freddie Highmore
+David Kelly
+Helena Bonham Carter
+Noah Taylor
+Watchmen
+2009
+107503316
+Zack Snyder
+Malin Akerman
+Billy Crudup
+Matthew Goode
+Jackie Earle Haley
+Jeffrey Dean Morgan
+It's Complicated
+2009
+112047585
+Nancy Meyers
+Meryl Streep
+Steve Martin
+Alec Baldwin
+John Krasinski
+Lake Bell
+Lethal Weapon 4
+1998
+129734803
+Richard Donner
+Mel Gibson
+Danny Glover
+Joe Pesci
+Rene Russo
+Chris Rock
+What Women Want
+2000
+182805123
+Nancy Meyers
+Mel Gibson
+Helen Hunt
+Marisa Tomei
+Alan Alda
+Ashley Johnson
+Se7en
+1995
+100125340
+David Fincher
+Brad Pitt
+Morgan Freeman
+Gwyneth Paltrow
+R. Lee Ermey
+Andrew Kevin Walker
+The Pelican Brief
+1993
+100768056
+Alan J. Pakula
+Julia Roberts
+Denzel Washington
+Sam Shepard
+John Heard
+Tony Goldwyn
+Live Free or Die Hard
+2007
+134520804
+Len Wiseman
+Bruce Willis
+Timothy Olyphant
+Justin Long
+Maggie Q
+Cliff Curtis
+Star Wars: Episode VI - Return of the Jedi
+1983
+309125409
+Richard Marquand
+Mark Hamill
+Harrison Ford
+Carrie Fisher
+Billy Dee Williams
+Anthony Daniels
+Die Hard: With a Vengeance
+1995
+100012500
+John McTiernan
+Bruce Willis
+Jeremy Irons
+Samuel L. Jackson
+Graham Greene
+Colleen Camp
+Robots
+2005
+128200012
+Carlos Saldanha
+Paula Abdul
+Halle Berry
+Lucille Bliss
+Terry Bradshaw
+Jim Broadbent
+Stuart Little
+1999
+140015224
+Rob Minkoff
+Michael J. Fox
+Geena Davis
+Hugh Laurie
+Jonathan Lipnicki
+Nathan Lane
+Austin Powers in Goldmember
+2002
+213079163
+Jay Roach
+Mike Myers
+Beyonce Knowles
+Seth Green
+Michael York
+Robert Wagner
+Remember the Titans
+2000
+115648585
+Boaz Yakin
+Denzel Washington
+Will Patton
+Wood Harris
+Ryan Hurst
+Donald Faison
+Batman Returns
+1992
+162831698
+Tim Burton
+Michael Keaton
+Danny DeVito
+Michelle Pfeiffer
+Christopher Walken
+Michael Gough
+Air Force One
+1997
+172620724
+Wolfgang Petersen
+Harrison Ford
+Gary Oldman
+Glenn Close
+Wendy Crewson
+Liesel Matthews
+Monsters vs Aliens
+2009
+198332128
+Rob Letterman
+Reese Witherspoon
+Seth Rogen
+Hugh Laurie
+Will Arnett
+Kiefer Sutherland
+G-Force
+2009
+119420252
+Hoyt Yeatman
+Bill Nighy
+Sam Rockwell
+Will Arnett
+Jon Favreau
+Zach Galifianakis
+Jaws
+1975
+260000000
+Steven Spielberg
+Roy Scheider
+Robert Shaw
+Richard Dreyfuss
+Lorraine Gary
+Murray Hamilton
+Die Hard 2
+1990
+117541000
+Renny Harlin
+Bruce Willis
+Bonnie Bedelia
+William Atherton
+William Sadler
+Reginald VelJohnson
+Close Encounters of the Third Kind
+1977
+128300000
+Steven Spielberg
+Richard Dreyfuss
+Francois Truffaut
+Teri Garr
+Melinda Dillon
+Bob Balaban
+Animal House
+1978
+141600000
+John Landis
+Tom Hulce
+Stephen Furst
+Mark Metcalf
+Mary Louise Weller
+Martha Smith
+The Jungle Book
+1967
+141843612
+Wolfgang Reitherman
+Phil Harris
+Sebastian Cabot
+Bruce Reitherman
+George Sanders
+Sterling Holloway
+Sex and the City
+2008
+152637269
+Michael Patrick King
+Sarah Jessica Parker
+Kim Cattrall
+Kristin Davis
+Cynthia Nixon
+Chris Noth
+Casper
+1995
+100328194
+Brad Silberling
+Chauncey Leopardi
+Spencer Vrooman
+Malachi Pearson
+Cathy Moriarty
+Eric Idle
+Sweet Home Alabama
+2002
+127214072
+Andy Tennant
+Reese Witherspoon
+Josh Lucas
+Patrick Dempsey
+Candice Bergen
+Mary Kay Place
+Click
+2006
+137340146
+Frank Coraci
+Adam Sandler
+Kate Beckinsale
+Christopher Walken
+David Hasselhoff
+Henry Winkler
+In the Line of Fire
+1993
+102314283
+Wolfgang Petersen
+Clint Eastwood
+John Malkovich
+Rene Russo
+Dylan McDermott
+Gary Cole
+Dreamgirls
+2006
+103338338
+Bill Condon
+Jamie Foxx
+Beyonce Knowles
+Eddie Murphy
+Danny Glover
+Jennifer Hudson
+Harry Potter and the Half-Blood Prince
+2009
+301956980
+David Yates
+Daniel Radcliffe
+Michael Gambon
+Dave Legeno
+Elarica Gallacher
+Jim Broadbent
+The Princess Diaries
+2001
+108244774
+Garry Marshall
+Julie Andrews
+Anne Hathaway
+Hector Elizondo
+Heather Matarazzo
+Mandy Moore
+300
+2006
+210592590
+Zack Snyder
+Gerard Butler
+Lena Headey
+Dominic West
+David Wenham
+Vincent Regan
+Four Christmases
+2008
+120136047
+Seth Gordon
+Vince Vaughn
+Reese Witherspoon
+Robert Duvall
+Sissy Spacek
+Jon Voight
+Shrek the Third
+2007
+320706665
+Raman Hui
+Mike Myers
+Eddie Murphy
+Cameron Diaz
+Antonio Banderas
+Julie Andrews
+Scary Movie 3
+2003
+110000082
+David Zucker
+Pamela Anderson
+Jenny McCarthy
+Marny Eng
+Charlie Sheen
+Simon Rex
+American Gangster
+2007
+130127620
+Ridley Scott
+Denzel Washington
+Russell Crowe
+Chiwetel Ejiofor
+Josh Brolin
+Lymari Nadal
+Mission: Impossible III
+2006
+133382309
+J.J. Abrams
+Tom Cruise
+Philip Seymour Hoffman
+Ving Rhames
+Billy Crudup
+Michelle Monaghan
+Collateral
+2004
+208003492
+Michael Mann
+Tom Cruise
+Jamie Foxx
+Jada Pinkett Smith
+Mark Ruffalo
+Peter Berg
+Robin Hood: Prince of Thieves
+1991
+165500000
+Kevin Reynolds
+Kevin Costner
+Morgan Freeman
+Mary Elizabeth Mastrantonio
+Christian Slater
+Alan Rickman
+The Hunt for Red October
+1990
+120709868
+John McTiernan
+Sean Connery
+Alec Baldwin
+Scott Glenn
+Sam Neill
+James Earl Jones
+Elf
+2003
+173381405
+Jon Favreau
+Will Ferrell
+James Caan
+Bob Newhart
+Edward Asner
+Mary Steenburgen
+The Rugrats Movie
+1998
+100491683
+Igor Kovalyov
+David Spade
+Whoopi Goldberg
+Elizabeth Daily
+Christine Cavanaugh
+Kath Soucie
+Dodgeball: A True Underdog Story
+2004
+114324072
+Rawson Marshall Thurber
+Vince Vaughn
+Christine Taylor
+Ben Stiller
+Rip Torn
+Justin Long
+Happy Feet
+2006
+197992827
+Warren Coleman
+Carlos Alazraqui
+Lombardo Boyar
+Jeffrey Garcia
+Johnny A. Sanchez
+Robin Williams
+Bambi
+1942
+102797150
+David Hand
+Hardie Albright
+Stan Alexander
+Bobette Audrey
+Peter Behn
+Thelma Boardman
+Home Alone 2: Lost in New York
+1992
+173585516
+Chris Columbus
+Macaulay Culkin
+Joe Pesci
+Daniel Stern
+Catherine O'Hara
+John Heard
+There's Something About Mary
+1998
+176483808
+Bobby Farrelly
+Cameron Diaz
+Matt Dillon
+Ben Stiller
+Lee Evans
+Chris Elliott
+Top Gun
+1986
+176781728
+Tony Scott
+Tom Cruise
+Kelly McGillis
+Val Kilmer
+Anthony Edwards
+Tom Skerritt
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+2005
+291709845
+Andrew Adamson
+Georgie Henley
+Skandar Keynes
+William Moseley
+Anna Popplewell
+Tilda Swinton
+Charlie's Angels: Full Throttle
+2003
+100685880
+McG
+Cameron Diaz
+Drew Barrymore
+Lucy Liu
+Bernie Mac
+Crispin Glover
+Angels & Demons
+2009
+133375846
+Ron Howard
+Tom Hanks
+Ewan McGregor
+Ayelet Zurer
+Stellan Skarsgard
+Pierfrancesco Favino
+A Beautiful Mind
+2001
+170708996
+Ron Howard
+Russell Crowe
+Ed Harris
+Jennifer Connelly
+Christopher Plummer
+Paul Bettany
+Cheaper by the Dozen
+2003
+138614544
+Shawn Levy
+Steve Martin
+Bonnie Hunt
+Piper Perabo
+Tom Welling
+Hilary Duff
+Pocahontas
+1995
+141600000
+Mike Gabriel
+Irene Bedard
+Judy Kuhn
+Mel Gibson
+David Ogden Stiers
+John Kassir
+Wild Hogs
+2007
+168213584
+Walt Becker
+Tim Allen
+John Travolta
+Martin Lawrence
+William H. Macy
+Ray Liotta
+The Green Mile
+1999
+136801374
+Frank Darabont
+Tom Hanks
+David Morse
+Bonnie Hunt
+Michael Clarke Duncan
+James Cromwell
+Harry Potter and the Order of the Phoenix
+2007
+292000866
+David Yates
+Daniel Radcliffe
+Harry Melling
+Jason Boyd
+Richard Macklin
+Kathryn Hunter
+Mulan
+1998
+120618403
+Tony Bancroft
+Miguel Ferrer
+Harvey Fierstein
+Freda Foh Shen
+June Foray
+James Hong
+One Flew Over the Cuckoo's Nest
+1975
+112000000
+Milos Forman
+Michael Berryman
+Peter Brocco
+Dean R. Brooks
+Alonzo Brown
+Scatman Crothers
+2 Fast 2 Furious
+2003
+127083765
+John Singleton
+Paul Walker
+Tyrese Gibson
+Eva Mendes
+Cole Hauser
+Ludacris
+Spy Kids 3-D: Game Over
+2003
+111760631
+Robert Rodriguez
+Antonio Banderas
+Carla Gugino
+Alexa Vega
+Daryl Sabara
+Ricardo Montalban
+Dr. Dolittle 2
+2001
+112950721
+Steve Carr
+Eddie Murphy
+Kristen Wilson
+Raven-Symone
+Kyla Pratt
+Lil' Zane
+Bee Movie
+2007
+126597121
+Steve Hickner
+Jerry Seinfeld
+Renee Zellweger
+Matthew Broderick
+Patrick Warburton
+John Goodman
+Dumb & Dumber
+1994
+127175354
+Bobby Farrelly
+Jim Carrey
+Jeff Daniels
+Lauren Holly
+Mike Starr
+Karen Duffy
+Alice in Wonderland
+2010
+125109453
+Tim Burton
+Johnny Depp
+Mia Wasikowska
+Helena Bonham Carter
+Anne Hathaway
+Crispin Glover
+Lethal Weapon 3
+1992
+144731527
+Richard Donner
+Mel Gibson
+Danny Glover
+Joe Pesci
+Rene Russo
+Stuart Wilson
+Shakespeare in Love
+1998
+100241322
+John Madden
+Geoffrey Rush
+Tom Wilkinson
+Steven O'Donnell
+Tim McMullan
+Joseph Fiennes
+The Matrix
+1999
+171383253
+Andy Wachowski
+Keanu Reeves
+Laurence Fishburne
+Carrie-Anne Moss
+Hugo Weaving
+Gloria Foster
+The Grudge
+2004
+110175871
+Takashi Shimizu
+Sarah Michelle Gellar
+Jason Behr
+William Mapother
+Clea DuVall
+KaDee Strickland
+Ghostbusters II
+1989
+112494738
+Ivan Reitman
+Bill Murray
+Dan Aykroyd
+Sigourney Weaver
+Harold Ramis
+Rick Moranis
+Freaky Friday
+2003
+110222438
+Mark Waters
+Jamie Lee Curtis
+Lindsay Lohan
+Mark Harmon
+Harold Gould
+Chad Michael Murray
+Analyze This
+1999
+106694016
+Harold Ramis
+Robert De Niro
+Billy Crystal
+Lisa Kudrow
+Chazz Palminteri
+Kresimir Novakovic
+Nutty Professor II: The Klumps
+2000
+123307945
+Peter Segal
+Eddie Murphy
+Janet Jackson
+Larry Miller
+John Ales
+Richard Gant
+The Bourne Ultimatum
+2007
+227225045
+Paul Greengrass
+Matt Damon
+Julia Stiles
+David Strathairn
+Scott Glenn
+Paddy Considine
+Clear and Present Danger
+1994
+122012710
+Phillip Noyce
+Harrison Ford
+Willem Dafoe
+Anne Archer
+Joaquim de Almeida
+Henry Czerny
+The Graduate
+1967
+104397102
+Mike Nichols
+Anne Bancroft
+Dustin Hoffman
+Katharine Ross
+William Daniels
+Murray Hamilton
+The Bodyguard
+1992
+121945720
+Mick Jackson
+Kevin Costner
+Whitney Houston
+Gary Kemp
+Bill Cobbs
+Ralph Waite
+Indiana Jones and the Temple of Doom
+1984
+179870271
+Steven Spielberg
+Harrison Ford
+Kate Capshaw
+Jonathan Ke Quan
+Amrish Puri
+Roshan Seth
+Kung Fu Panda
+2008
+215395021
+Mark Osborne
+Jack Black
+Dustin Hoffman
+Angelina Jolie
+Ian McShane
+Jackie Chan
+The Exorcist
+1973
+204565000
+William Friedkin
+Ellen Burstyn
+Max von Sydow
+Lee J. Cobb
+Kitty Winn
+Jack MacGowran
+Chicago
+2002
+170684505
+Rob Marshall
+Taye Diggs
+Renee Zellweger
+Cliff Saunders
+Catherine Zeta-Jones
+Richard Gere
+Twins
+1988
+111936400
+Ivan Reitman
+Arnold Schwarzenegger
+Danny DeVito
+Kelly Preston
+Chloe Webb
+Bonnie Bartlett
+Toy Story 2
+1999
+245823397
+Ash Brannon
+Tom Hanks
+Tim Allen
+Joan Cusack
+Kelsey Grammer
+Don Rickles
+The Karate Kid, Part II
+1986
+115103979
+John G. Avildsen
+Pat Morita
+Ralph Macchio
+Pat E. Johnson
+Bruce Malmuth
+Eddie Smith
+Scooby-Doo
+2002
+153288182
+Raja Gosnell
+Freddie Prinze Jr.
+Sarah Michelle Gellar
+Matthew Lillard
+Linda Cardellini
+Rowan Atkinson
+xXx
+2002
+141204016
+Rob Cohen
+Vin Diesel
+Asia Argento
+Marton Csokas
+Samuel L. Jackson
+Michael Roof
+American Pie
+1999
+101736215
+Chris Weitz
+Jason Biggs
+Chris Klein
+Thomas Ian Nicholas
+Alyson Hannigan
+Shannon Elizabeth
+Harry Potter and the Goblet of Fire
+2005
+289994397
+Mike Newell
+Eric Sykes
+Timothy Spall
+David Tennant
+Daniel Radcliffe
+Emma Watson
+Monsters, Inc.
+2001
+255870172
+Pete Docter
+John Goodman
+Billy Crystal
+Mary Gibbs
+Steve Buscemi
+James Coburn
+2012
+2009
+166112167
+Roland Emmerich
+John Cusack
+Amanda Peet
+Chiwetel Ejiofor
+Thandie Newton
+Oliver Platt
+Basic Instinct
+1992
+117727224
+Paul Verhoeven
+Michael Douglas
+Sharon Stone
+George Dzundza
+Jeanne Tripplehorn
+Denis Arndt
+A Bug's Life
+1998
+162792677
+John Lasseter
+Dave Foley
+Kevin Spacey
+Julia Louis-Dreyfus
+Hayden Panettiere
+Phyllis Diller
+Indecent Proposal
+1993
+106614100
+Adrian Lyne
+Robert Redford
+Demi Moore
+Woody Harrelson
+Seymour Cassel
+Oliver Platt
+Paranormal Activity
+2007
+107917283
+Oren Peli
+Katie Featherston
+Micah Sloat
+Mark Fredrichs
+Amber Armstrong
+Ashley Palmer
+Miss Congeniality
+2000
+106807667
+Donald Petrie
+Sandra Bullock
+Michael Caine
+Benjamin Bratt
+Candice Bergen
+William Shatner
+Grease
+1978
+181360000
+Randal Kleiser
+John Travolta
+Olivia Newton-John
+Stockard Channing
+Jeff Conaway
+Barry Pearl
+Hancock
+2008
+227946274
+Peter Berg
+Will Smith
+Charlize Theron
+Jason Bateman
+Jae Head
+Eddie Marsan
+Mary Poppins
+1964
+102300000
+Robert Stevenson
+Julie Andrews
+Dick Van Dyke
+David Tomlinson
+Glynis Johns
+Hermione Baddeley
+Inglourious Basterds
+2009
+120523073
+Quentin Tarantino
+Brad Pitt
+Melanie Laurent
+Christoph Waltz
+Eli Roth
+Michael Fassbender
+Batman Forever
+1995
+184031112
+Joel Schumacher
+Val Kilmer
+Tommy Lee Jones
+Jim Carrey
+Nicole Kidman
+Chris O'Donnell
+Star Trek IV: The Voyage Home
+1986
+109713132
+Leonard Nimoy
+William Shatner
+Leonard Nimoy
+DeForest Kelley
+James Doohan
+George Takei
+Eraser
+1996
+101228120
+Chuck Russell
+Arnold Schwarzenegger
+James Caan
+Vanessa Williams
+James Coburn
+Robert Pastorelli
+Pirates of the Caribbean: The Curse of the Black Pearl
+2003
+305388685
+Gore Verbinski
+Johnny Depp
+Geoffrey Rush
+Orlando Bloom
+Keira Knightley
+Jack Davenport
+Quantum of Solace
+2008
+168368427
+Marc Forster
+Daniel Craig
+Olga Kurylenko
+Mathieu Amalric
+Judi Dench
+Giancarlo Giannini
+Superman II
+1980
+108200000
+Richard Donner
+Gene Hackman
+Christopher Reeve
+Ned Beatty
+Jackie Cooper
+Sarah Douglas
+Love Story
+1970
+106400000
+Arthur Hiller
+Ali MacGraw
+Ryan O'Neal
+John Marley
+Ray Milland
+Russell Nype
+Ghost
+1990
+217631306
+Jerry Zucker
+Patrick Swayze
+Demi Moore
+Tony Goldwyn
+Stanley Lawrence
+Christopher J. Keene
+Tomorrow Never Dies
+1997
+125332007
+Roger Spottiswoode
+Pierce Brosnan
+Jonathan Pryce
+Michelle Yeoh
+Teri Hatcher
+Ricky Jay
+Scream
+1996
+103001286
+Wes Craven
+David Arquette
+Neve Campbell
+Courteney Cox
+Skeet Ulrich
+Rose McGowan
+Gone with the Wind
+1939
+198655278
+George Cukor
+Thomas Mitchell
+Barbara O'Neil
+Vivien Leigh
+Evelyn Keyes
+Ann Rutherford
+Indiana Jones and the Last Crusade
+1989
+197171806
+Steven Spielberg
+Harrison Ford
+Sean Connery
+Denholm Elliott
+Alison Doody
+John Rhys-Davies
+The Sum of All Fears
+2002
+118471320
+Phil Alden Robinson
+Ben Affleck
+Morgan Freeman
+James Cromwell
+Ken Jenkins
+Liev Schreiber
+The Hangover
+2009
+277313371
+Todd Phillips
+Bradley Cooper
+Ed Helms
+Zach Galifianakis
+Justin Bartha
+Heather Graham
+How the Grinch Stole Christmas
+2000
+260031035
+Ron Howard
+Jim Carrey
+Taylor Momsen
+Jeffrey Tambor
+Christine Baranski
+Bill Irwin
+The Lord of the Rings: The Two Towers
+2002
+340478898
+Peter Jackson
+Bruce Allpress
+Sean Astin
+John Bach
+Sala Baker
+Cate Blanchett
+Ice Age: The Meltdown
+2006
+195329763
+Carlos Saldanha
+Ray Romano
+John Leguizamo
+Denis Leary
+Seann William Scott
+Josh Peck
+Ocean's Twelve
+2004
+125531634
+Steven Soderbergh
+Brad Pitt
+Catherine Zeta-Jones
+George Clooney
+Ed Kross
+Julia Roberts
+My Big Fat Greek Wedding
+2002
+241437427
+Joel Zwick
+Nia Vardalos
+Michael Constantine
+Christina Eleusiniotis
+Kaylee Vieira
+John Kalangis
+50 First Dates
+2004
+120776832
+Peter Segal
+Adam Sandler
+Drew Barrymore
+Rob Schneider
+Sean Astin
+Lusia Strus
+What Lies Beneath
+2000
+155370362
+Robert Zemeckis
+Michelle Pfeiffer
+Katharine Towne
+Miranda Otto
+James Remar
+Harrison Ford
+Mamma Mia!
+2008
+143704210
+Phyllida Lloyd
+Amanda Seyfried
+Stellan Skarsgard
+Pierce Brosnan
+Nancy Baldwin
+Colin Firth
+Face/Off
+1997
+112225777
+John Woo
+John Travolta
+Nicolas Cage
+Joan Allen
+Alessandro Nivola
+Gina Gershon
+Journey to the Center of the Earth
+2008
+101702060
+Eric Brevig
+Brendan Fraser
+Josh Hutcherson
+Anita Briem
+Seth Meyers
+Jean Michel Pare
+The Rocky Horror Picture Show
+1975
+139876417
+Jim Sharman
+Tim Curry
+Susan Sarandon
+Barry Bostwick
+Richard O'Brien
+Patricia Quinn
+Stir Crazy
+1980
+101500000
+Sidney Poitier
+Gene Wilder
+Richard Pryor
+Georg Stanford Brown
+JoBeth Williams
+Miguel Angel Suarez
+Maverick
+1994
+101631272
+Richard Donner
+Mel Gibson
+Jodie Foster
+James Garner
+Graham Greene
+Alfred Molina
+Ghost Busters
+1984
+238600000
+Ivan Reitman
+Bill Murray
+Dan Aykroyd
+Sigourney Weaver
+Harold Ramis
+Rick Moranis
+Liar Liar
+1997
+181395380
+Tom Shadyac
+Jim Carrey
+Maura Tierney
+Justin Cooper
+Cary Elwes
+Anne Haney
+Superman
+1978
+134218018
+Richard Donner
+Marlon Brando
+Gene Hackman
+Christopher Reeve
+Ned Beatty
+Jackie Cooper
+Ghost Rider
+2007
+115802596
+Mark Steven Johnson
+Matt Long
+Raquel Alessi
+Brett Cullen
+Peter Fonda
+Nicolas Cage
+Shrek 2
+2004
+436471036
+Andrew Adamson
+Mike Myers
+Eddie Murphy
+Cameron Diaz
+Julie Andrews
+Antonio Banderas
+Lara Croft: Tomb Raider
+2001
+131144183
+Simon West
+Angelina Jolie
+Jon Voight
+Iain Glen
+Noah Taylor
+Daniel Craig
+Batman & Robin
+1997
+107285004
+Joel Schumacher
+Arnold Schwarzenegger
+George Clooney
+Chris O'Donnell
+Uma Thurman
+Alicia Silverstone
+An Officer and a Gentleman
+1982
+129795554
+Taylor Hackford
+Richard Gere
+Debra Winger
+David Keith
+Robert Loggia
+Lisa Blount
+The Lost World: Jurassic Park
+1997
+229074524
+Steven Spielberg
+Jeff Goldblum
+Julianne Moore
+Pete Postlethwaite
+Richard Attenborough
+Vince Vaughn
+Taken
+2008
+145000989
+Pierre Morel
+Liam Neeson
+Maggie Grace
+Leland Orser
+Jon Gries
+David Warshofsky
+Spider-Man
+2002
+403706375
+Sam Raimi
+Tobey Maguire
+Willem Dafoe
+Kirsten Dunst
+James Franco
+Cliff Robertson
+E.T.: The Extra-Terrestrial
+1982
+434949459
+Steven Spielberg
+Henry Thomas
+Dee Wallace
+Robert MacNaughton
+Drew Barrymore
+Peter Coyote
+Saving Private Ryan
+1998
+216119491
+Steven Spielberg
+Tom Hanks
+Tom Sizemore
+Edward Burns
+Barry Pepper
+Adam Goldberg
+Mission: Impossible II
+2000
+215397307
+John Woo
+Tom Cruise
+Dougray Scott
+Thandie Newton
+Ving Rhames
+Richard Roxburgh
+Catch Me If You Can
+2002
+164435221
+Steven Spielberg
+Leonardo DiCaprio
+Tom Hanks
+Christopher Walken
+Martin Sheen
+Nathalie Baye
+Godzilla
+1998
+136023813
+Roland Emmerich
+Matthew Broderick
+Jean Reno
+Maria Pitillo
+Hank Azaria
+Kevin Dunn
+Coming to America
+1988
+128152301
+John Landis
+Eddie Murphy
+Arsenio Hall
+James Earl Jones
+John Amos
+Madge Sinclair
+The Ring
+2002
+128579698
+Gore Verbinski
+Naomi Watts
+Martin Henderson
+David Dorfman
+Brian Cox
+Jane Alexander
+The Waterboy
+1998
+161487252
+Frank Coraci
+Adam Sandler
+Kathy Bates
+Fairuza Balk
+Henry Winkler
+Jerry Reed
+Unforgiven
+1992
+101157447
+Clint Eastwood
+Clint Eastwood
+Gene Hackman
+Morgan Freeman
+Richard Harris
+Jaimz Woolvett
+Nine to Five
+1980
+103290500
+Colin Higgins
+Jane Fonda
+Lily Tomlin
+Dolly Parton
+Dabney Coleman
+Sterling Hayden
+8 Mile
+2002
+116724075
+Curtis Hanson
+Eminem
+Brittany Murphy
+Mekhi Phifer
+Kim Basinger
+Evan Jones
+Airport
+1970
+100489150
+Henry Hathaway
+Burt Lancaster
+Dean Martin
+Jean Seberg
+Jacqueline Bisset
+George Kennedy
+Doctor Dolittle
+1998
+144156464
+Betty Thomas
+Eddie Murphy
+Ossie Davis
+Oliver Platt
+Peter Boyle
+Richard Schiff
+The Longest Yard
+2005
+158115031
+Peter Segal
+Adam Sandler
+Chris Rock
+Burt Reynolds
+Nelly
+Michael Irvin
+The Departed
+2006
+132373442
+Martin Scorsese
+Leonardo DiCaprio
+Matt Damon
+Jack Nicholson
+Mark Wahlberg
+Martin Sheen
+Daredevil
+2003
+102543518
+Mark Steven Johnson
+Ben Affleck
+Jennifer Garner
+Colin Farrell
+Michael Clarke Duncan
+Jon Favreau
+Fatal Attraction
+1987
+156645693
+Adrian Lyne
+Michael Douglas
+Glenn Close
+Anne Archer
+Ellen Hamilton Latzen
+Stuart Pankin
+Harry Potter and the Sorcerer's Stone
+2001
+317557891
+Chris Columbus
+Richard Harris
+Maggie Smith
+Robbie Coltrane
+Saunders Triplets
+Daniel Radcliffe
+Planet of the Apes
+2001
+180011740
+Tim Burton
+Mark Wahlberg
+Tim Roth
+Helena Bonham Carter
+Michael Clarke Duncan
+Paul Giamatti
+On Golden Pond
+1981
+119285432
+Mark Rydell
+Katharine Hepburn
+Henry Fonda
+Jane Fonda
+Doug McKeon
+Dabney Coleman
+Shark Tale
+2004
+160762022
+Bibo Bergeron
+Will Smith
+Robert De Niro
+Renee Zellweger
+Jack Black
+Angelina Jolie
+The Blind Side
+2009
+250467487
+John Lee Hancock
+Sandra Bullock
+Tim McGraw
+Quinton Aaron
+Jae Head
+Lily Collins
+Snow White and the Seven Dwarfs
+1937
+184925485
+David Hand
+Roy Atwell
+Stuart Buchanan
+Adriana Caselotti
+Zeke Clements
+Eddie Collins
+Mr. Deeds
+2002
+126203320
+Steven Brill
+Adam Sandler
+Winona Ryder
+John Turturro
+Allen Covert
+Peter Gallagher
+Night at the Museum: Battle of the Smithsonian
+2009
+177243721
+Shawn Levy
+Ben Stiller
+Amy Adams
+Owen Wilson
+Hank Azaria
+Robin Williams
+Interview with the Vampire: The Vampire Chronicles
+1994
+105264608
+Neil Jordan
+Brad Pitt
+Christian Slater
+Virginia McCollam
+John McConnell
+Tom Cruise
+Sleepless in Seattle
+1993
+126670704
+Nora Ephron
+Tom Hanks
+Ross Malinger
+Rita Wilson
+Victor Garber
+Tom Riis Farrell
+The 40 Year Old Virgin
+2005
+109243478
+Judd Apatow
+Steve Carell
+Catherine Keener
+Paul Rudd
+Romany Malco
+Seth Rogen
+American Pie 2
+2001
+145096820
+J.B. Rogers
+Jason Biggs
+Shannon Elizabeth
+Alyson Hannigan
+Chris Klein
+Thomas Ian Nicholas
+Road to Perdition
+2002
+104054514
+Sam Mendes
+Tom Hanks
+Tyler Hoechlin
+Rob Maxey
+Paul Newman
+Liam Aiken
+Titanic
+1997
+600779824
+James Cameron
+Leonardo DiCaprio
+Kate Winslet
+Billy Zane
+Kathy Bates
+Frances Fisher
+Look Who's Talking
+1989
+140088813
+Amy Heckerling
+John Travolta
+Kirstie Alley
+Olympia Dukakis
+George Segal
+Abe Vigoda
+Terminator 2: Judgment Day
+1991
+204843350
+James Cameron
+Arnold Schwarzenegger
+Linda Hamilton
+Edward Furlong
+Robert Patrick
+Earl Boen
+Crocodile Dundee
+1986
+174635000
+Peter Faiman
+Paul Hogan
+Linda Kozlowski
+John Meillon
+David Gulpilil
+Ritchie Singer
+Fast & Furious
+2009
+155022220
+Justin Lin
+Vin Diesel
+Paul Walker
+Jordana Brewster
+Michelle Rodriguez
+John Ortiz
+Speed
+1994
+121248145
+Jan de Bont
+Keanu Reeves
+Dennis Hopper
+Sandra Bullock
+Joe Morton
+Jeff Daniels
+The Pacifier
+2005
+113006880
+Adam Shankman
+Vin Diesel
+Lauren Graham
+Faith Ford
+Brittany Snow
+Max Thieriot
+The Pursuit of Happyness
+2006
+162586036
+Gabriele Muccino
+Will Smith
+Jaden Smith
+Thandie Newton
+Brian Howe
+James Karen
+Meet the Fockers
+2004
+279167575
+Jay Roach
+Robert De Niro
+Ben Stiller
+Dustin Hoffman
+Barbra Streisand
+Blythe Danner
+Gone in Sixty Seconds
+2000
+101643008
+Dominic Sena
+Nicolas Cage
+Giovanni Ribisi
+Angelina Jolie
+T.J. Cross
+William Lee Scott
+Butch Cassidy and the Sundance Kid
+1969
+102308900
+George Roy Hill
+Paul Newman
+Robert Redford
+Katharine Ross
+Strother Martin
+Henry Jones
+Meet the Parents
+2000
+166225040
+Jay Roach
+Robert De Niro
+Ben Stiller
+Teri Polo
+Blythe Danner
+Nicole DeHuff
+George of the Jungle
+1997
+105263257
+Sam Weisman
+Brendan Fraser
+Leslie Mann
+Thomas Haden Church
+John Cleese
+Richard Roundtree
+Terminator 3: Rise of the Machines
+2003
+150350192
+Jonathan Mostow
+Arnold Schwarzenegger
+Nick Stahl
+Claire Danes
+Kristanna Loken
+David Andrews
+The Prince of Egypt
+1998
+101217900
+Brenda Chapman
+Val Kilmer
+Ralph Fiennes
+Michelle Pfeiffer
+Sandra Bullock
+Jeff Goldblum
+Ocean's Eleven
+2001
+183405771
+Steven Soderbergh
+George Clooney
+Cecelia Ann Birt
+Paul L. Nolan
+Carol Florence
+Lori Galinski
+The First Wives Club
+1996
+105444419
+Hugh Wilson
+Bette Midler
+Goldie Hawn
+Diane Keaton
+Maggie Smith
+Dan Hedaya
+Dances with Wolves
+1990
+184208848
+Kevin Costner
+Kevin Costner
+Mary McDonnell
+Graham Greene
+Rodney A. Grant
+Floyd 'Red Crow' Westerman
+Night at the Museum
+2006
+250863268
+Shawn Levy
+Ben Stiller
+Carla Gugino
+Dick Van Dyke
+Mickey Rooney
+Bill Cobbs
+Mrs. Doubtfire
+1993
+219200000
+Chris Columbus
+Robin Williams
+Sally Field
+Pierce Brosnan
+Harvey Fierstein
+Polly Holliday
+Lilo & Stitch
+2002
+145771527
+Dean DeBlois
+Daveigh Chase
+Chris Sanders
+Tia Carrere
+David Ogden Stiers
+Kevin McDonald
+Black Hawk Down
+2001
+108638745
+Ridley Scott
+Josh Hartnett
+Ewan McGregor
+Tom Sizemore
+Eric Bana
+William Fichtner
+Every Which Way But Loose
+1978
+105918400
+James Fargo
+Clint Eastwood
+Sondra Locke
+Geoffrey Lewis
+Beverly D'Angelo
+Walter Barnes
+The Fast and the Furious
+2001
+144512310
+Rob Cohen
+Paul Walker
+Vin Diesel
+Michelle Rodriguez
+Jordana Brewster
+Rick Yune
+Star Wars: Episode III - Revenge of the Sith
+2005
+380262555
+George Lucas
+Ewan McGregor
+Natalie Portman
+Hayden Christensen
+Ian McDiarmid
+Samuel L. Jackson
+Double Jeopardy
+1999
+116735231
+Bruce Beresford
+Tommy Lee Jones
+Ashley Judd
+Benjamin Weir
+Jay Brazeau
+Bruce Greenwood
+Fahrenheit 9/11
+2004
+119078393
+Michael Moore
+Ben Affleck
+Stevie Wonder
+George W. Bush
+James Baker III
+Richard Gephardt
+Talladega Nights: The Ballad of Ricky Bobby
+2006
+148213377
+Adam McKay
+Gary Cole
+Will Ferrell
+Jane Lynch
+Jake Johnson
+Jason Davis
+The Truman Show
+1998
+125603360
+Peter Weir
+Jim Carrey
+Laura Linney
+Noah Emmerich
+Natascha McElhone
+Holland Taylor
+The Sound of Music
+1965
+163214286
+Robert Wise
+Julie Andrews
+Christopher Plummer
+Eleanor Parker
+Richard Haydn
+Peggy Wood
+Austin Powers: The Spy Who Shagged Me
+1999
+205399422
+Jay Roach
+Mike Myers
+Heather Graham
+Michael York
+Robert Wagner
+Rob Lowe
+How to Lose a Guy in 10 Days
+2003
+105807520
+Donald Petrie
+Kate Hudson
+Matthew McConaughey
+Kathryn Hahn
+Annie Parisse
+Adam Goldberg
+Blazing Saddles
+1974
+119500000
+Mel Brooks
+Cleavon Little
+Gene Wilder
+Slim Pickens
+Harvey Korman
+Madeline Kahn
+Back to the Future Part II
+1989
+118500000
+Robert Zemeckis
+Michael J. Fox
+Christopher Lloyd
+Lea Thompson
+Thomas F. Wilson
+Elisabeth Shue
+Mission: Impossible
+1996
+180965237
+Brian De Palma
+Tom Cruise
+Jon Voight
+Emmanuelle Beart
+Henry Czerny
+Jean Reno
+The Chronicles of Narnia: Prince Caspian
+2008
+141614023
+Andrew Adamson
+Ben Barnes
+Georgie Henley
+Skandar Keynes
+William Moseley
+Anna Popplewell
+Something's Gotta Give
+2003
+124590960
+Nancy Meyers
+Jack Nicholson
+Diane Keaton
+Keanu Reeves
+Frances McDormand
+Amanda Peet
+The World Is Not Enough
+1999
+126930660
+Michael Apted
+Pierce Brosnan
+Sophie Marceau
+Robert Carlyle
+Denise Richards
+Robbie Coltrane
+Beverly Hills Cop
+1984
+234760500
+Martin Brest
+Eddie Murphy
+Judge Reinhold
+John Ashton
+Lisa Eilbacher
+Ronny Cox
+Deep Impact
+1998
+140459099
+Mimi Leder
+Robert Duvall
+Tea Leoni
+Elijah Wood
+Vanessa Redgrave
+Morgan Freeman
+Good Will Hunting
+1997
+138339411
+Gus Van Sant
+Robin Williams
+Matt Damon
+Ben Affleck
+Stellan Skarsgard
+Minnie Driver
+The Nutty Professor
+1996
+128769345
+Tom Shadyac
+Eddie Murphy
+Jada Pinkett Smith
+James Coburn
+Larry Miller
+Dave Chappelle
+The Hunchback of Notre Dame
+1996
+100117603
+Gary Trousdale
+Jason Alexander
+Mary Kay Bergman
+Corey Burton
+Jim Cummings
+Bill Fagerbakke
+Rocky III
+1982
+122823200
+Sylvester Stallone
+Sylvester Stallone
+Talia Shire
+Burt Young
+Carl Weathers
+Burgess Meredith
+Smokey and the Bandit
+1977
+126737428
+Hal Needham
+Burt Reynolds
+Sally Field
+Jerry Reed
+Mike Henry
+Paul Williams
+Traffic
+2000
+124107476
+Steven Soderbergh
+Benicio Del Toro
+Jacob Vargas
+Andrew Chavez
+Michael Saucedo
+Tomas Milian
+The Sting
+1973
+159600000
+George Roy Hill
+Paul Newman
+Robert Redford
+Robert Shaw
+Charles Durning
+Ray Walston
+The Cat in the Hat
+2003
+100446895
+Bo Welch
+Mike Myers
+Alec Baldwin
+Kelly Preston
+Dakota Fanning
+Spencer Breslin
+Sleeping with the Enemy
+1991
+101580000
+Joseph Ruben
+Julia Roberts
+Patrick Bergin
+Kevin Anderson
+Elizabeth Lawrence
+Kyle Secor
+Big
+1988
+114968774
+Penny Marshall
+Tom Hanks
+Elizabeth Perkins
+Robert Loggia
+John Heard
+Jared Rushton
+Hitch
+2005
+177575142
+Andy Tennant
+Will Smith
+Eva Mendes
+Kevin James
+Amber Valletta
+Julie Ann Emery
+The Proposal
+2009
+163947053
+Anne Fletcher
+Sandra Bullock
+Ryan Reynolds
+Mary Steenburgen
+Craig T. Nelson
+Betty White
+Pirates of the Caribbean: At World's End
+2007
+309404152
+Gore Verbinski
+Johnny Depp
+Geoffrey Rush
+Orlando Bloom
+Keira Knightley
+Jack Davenport
+Hulk
+2003
+132122995
+Ang Lee
+Eric Bana
+Jennifer Connelly
+Sam Elliott
+Josh Lucas
+Nick Nolte
+Hairspray
+2007
+118823091
+Adam Shankman
+John Travolta
+Michelle Pfeiffer
+Christopher Walken
+Amanda Bynes
+James Marsden
+Harry Potter and the Prisoner of Azkaban
+2004
+249358727
+Alfonso Cuarón
+Daniel Radcliffe
+Richard Griffiths
+Pam Ferris
+Fiona Shaw
+Harry Melling
+You've Got Mail
+1998
+115731542
+Nora Ephron
+Tom Hanks
+Meg Ryan
+Katie Sagona
+Greg Kinnear
+Parker Posey
+Runaway Bride
+1999
+152149590
+Garry Marshall
+Julia Roberts
+Richard Gere
+Joan Cusack
+Hector Elizondo
+Rita Wilson
+X2
+2003
+214948780
+Bryan Singer
+Patrick Stewart
+Hugh Jackman
+Ian McKellen
+Halle Berry
+Famke Janssen
+A Christmas Carol
+2009
+137850096
+Robert Zemeckis
+Jim Carrey
+Steve Valentine
+Daryl Sabara
+Sage Ryan
+Amber Gainey Meade
+Seabiscuit
+2003
+120147445
+Gary Ross
+David McCullough
+Jeff Bridges
+Paul Vincent O'Connor
+Chris Cooper
+Michael Ensign
+Apollo 13
+1995
+172071312
+Ron Howard
+Tom Hanks
+Bill Paxton
+Kevin Bacon
+Gary Sinise
+Ed Harris
+Wedding Crashers
+2005
+209218368
+David Dobkin
+Owen Wilson
+Vince Vaughn
+Christopher Walken
+Rachel McAdams
+Isla Fisher
+Chicken Little
+2005
+135381507
+Mark Dindal
+Zach Braff
+Garry Marshall
+Don Knotts
+Patrick Stewart
+Amy Sedaris
+'Crocodile' Dundee II
+1988
+109306210
+John Cornell
+Paul Hogan
+Linda Kozlowski
+John Meillon
+Ernie Dingo
+Steve Rackman
+The Addams Family
+1991
+113502246
+Barry Sonnenfeld
+Anjelica Huston
+Raul Julia
+Christopher Lloyd
+Elizabeth Wilson
+Christina Ricci
+The Sixth Sense
+1999
+293501675
+M. Night Shyamalan
+Bruce Willis
+Haley Joel Osment
+Toni Collette
+Olivia Williams
+Trevor Morgan
+Slumdog Millionaire
+2008
+141319195
+Danny Boyle
+Dev Patel
+Saurabh Shukla
+Anil Kapoor
+Rajendranath Zutshi
+Jeneva Talwar
+Big Momma's House
+2000
+117559438
+Raja Gosnell
+Martin Lawrence
+Nia Long
+Paul Giamatti
+Jascha Washington
+Terrence Howard
+Jurassic Park
+1993
+356784000
+Steven Spielberg
+Sam Neill
+Laura Dern
+Jeff Goldblum
+Richard Attenborough
+Bob Peck
+You Don't Mess with the Zohan
+2008
+100018837
+Dennis Dugan
+Adam Sandler
+John Turturro
+Emmanuelle Chriqui
+Nick Swardson
+Lainie Kazan
+The Simpsons Movie
+2007
+183132370
+David Silverman
+Dan Castellaneta
+Julie Kavner
+Nancy Cartwright
+Yeardley Smith
+Harry Shearer
+Aladdin
+1992
+217350219
+Ron Clements
+Scott Weinger
+Robin Williams
+Linda Larkin
+Jonathan Freeman
+Frank Welker
+Bringing Down the House
+2003
+132541238
+Adam Shankman
+Steve Martin
+Queen Latifah
+Eugene Levy
+Joan Plowright
+Jean Smart
+Parenthood
+1989
+100050000
+Ron Howard
+Steve Martin
+Mary Steenburgen
+Dianne Wiest
+Jason Robards
+Rick Moranis
+Who Framed Roger Rabbit
+1988
+154222492
+Robert Zemeckis
+Bob Hoskins
+Christopher Lloyd
+Joanna Cassidy
+Charles Fleischer
+Stubby Kaye
+Jumanji
+1995
+100200000
+Joe Johnston
+Robin Williams
+Jonathan Hyde
+Kirsten Dunst
+Bradley Pierce
+Bonnie Hunt
+Doctor Zhivago
+1965
+111722000
+David Lean
+Omar Sharif
+Julie Christie
+Geraldine Chaplin
+Rod Steiger
+Alec Guinness
+Patch Adams
+1998
+135014968
+Tom Shadyac
+Robin Williams
+Daniel London
+Monica Potter
+Philip Seymour Hoffman
+Bob Gunton
+The Village
+2004
+114195633
+M. Night Shyamalan
+Bryce Dallas Howard
+Joaquin Phoenix
+Adrien Brody
+William Hurt
+Sigourney Weaver
+The Break-Up
+2006
+118683135
+Peyton Reed
+Vince Vaughn
+Jennifer Aniston
+Joey Lauren Adams
+Cole Hauser
+Jon Favreau
+Blades of Glory
+2007
+118153533
+Josh Gordon
+Will Ferrell
+Jon Heder
+Will Arnett
+Amy Poehler
+Jenna Fischer
+4: Rise of the Silver Surfer
+2007
+131920333
+Tim Story
+Ioan Gruffudd
+Jessica Alba
+Chris Evans
+Michael Chiklis
+Julian McMahon
+Ice Age: Dawn of the Dinosaurs
+2009
+196573705
+Carlos Saldanha
+Eunice Cho
+Karen Disher
+Harrison Fahn
+Maile Flanagan
+Jason Fricchione
+Batman Begins
+2005
+205343774
+Christopher Nolan
+Christian Bale
+Michael Caine
+Liam Neeson
+Katie Holmes
+Gary Oldman
+Transformers: Revenge of the Fallen
+2009
+402076689
+Michael Bay
+Shia LaBeouf
+Megan Fox
+Josh Duhamel
+Tyrese Gibson
+John Turturro
+The Matrix Revolutions
+2003
+139259759
+Andy Wachowski
+Mary Alice
+Tanveer K. Atwal
+Helmut Bakaitis
+Kate Beahan
+Francine Bell
+Finding Nemo
+2003
+339714367
+Andrew Stanton
+Albert Brooks
+Ellen DeGeneres
+Alexander Gould
+Willem Dafoe
+Brad Garrett
+G.I. Joe: The Rise of Cobra
+2009
+150167630
+Stephen Sommers
+Adewale Akinnuoye-Agbaje
+Christopher Eccleston
+Joseph Gordon-Levitt
+Byung-hun Lee
+Sienna Miller
+Couples Retreat
+2009
+109176215
+Peter Billingsley
+Vince Vaughn
+Jason Bateman
+Faizon Love
+Jon Favreau
+Malin Akerman
+Total Recall
+1990
+119400000
+Paul Verhoeven
+Arnold Schwarzenegger
+Rachel Ticotin
+Sharon Stone
+Ronny Cox
+Michael Ironside
+Contact
+1997
+100853835
+Robert Zemeckis
+Jena Malone
+David Morse
+Jodie Foster
+Geoffrey Blake
+William Fichtner
+Rocky
+1976
+117235247
+John G. Avildsen
+Sylvester Stallone
+Talia Shire
+Burt Young
+Carl Weathers
+Burgess Meredith
+Harry Potter and the Chamber of Secrets
+2002
+261970615
+Chris Columbus
+Daniel Radcliffe
+Rupert Grint
+Emma Watson
+Richard Griffiths
+Fiona Shaw
+Million Dollar Baby
+2004
+100422786
+Clint Eastwood
+Clint Eastwood
+Hilary Swank
+Morgan Freeman
+Jay Baruchel
+Mike Colter
+Eagle Eye
+2008
+101111837
+D.J. Caruso
+Shia LaBeouf
+Michelle Monaghan
+Rosario Dawson
+Michael Chiklis
+Anthony Mackie
+Tarzan
+1999
+171085177
+Chris Buck
+Tony Goldwyn
+Minnie Driver
+Glenn Close
+Brian Blessed
+Nigel Hawthorne
+Pulp Fiction
+1994
+107930000
+Quentin Tarantino
+John Travolta
+Samuel L. Jackson
+Tim Roth
+Amanda Plummer
+Eric Stoltz
+Signs
+2002
+227965690
+M. Night Shyamalan
+Mel Gibson
+Joaquin Phoenix
+Rory Culkin
+Abigail Breslin
+Cherry Jones
+Wo hu cang long
+2000
+128067808
+Ang Lee
+Yun-Fat Chow
+Michelle Yeoh
+Ziyi Zhang
+Chen Chang
+Sihung Lung
+The Italian Job
+2003
+106126012
+F. Gary Gray
+Mark Wahlberg
+Charlize Theron
+Donald Sutherland
+Jason Statham
+Seth Green
+The Incredibles
+2004
+261437578
+Brad Bird
+Craig T. Nelson
+Holly Hunter
+Samuel L. Jackson
+Jason Lee
+Dominique Louis
+A League of Their Own
+1992
+107458785
+Penny Marshall
+Tom Hanks
+Geena Davis
+Madonna
+Lori Petty
+Jon Lovitz
+Tropic Thunder
+2008
+110416702
+Ben Stiller
+Jeff Kahn
+Robert Downey Jr.
+Anthony Ruivivar
+Jack Black
+Jay Baruchel
+Ice Age
+2002
+176387405
+Carlos Saldanha
+Ray Romano
+John Leguizamo
+Denis Leary
+Goran Visnjic
+Jack Black
+Bedtime Stories
+2008
+109993847
+Adam Shankman
+Adam Sandler
+Keri Russell
+Guy Pearce
+Russell Brand
+Richard Griffiths
+GoldenEye
+1995
+106635996
+Martin Campbell
+Pierce Brosnan
+Sean Bean
+Izabella Scorupco
+Famke Janssen
+Joe Don Baker
+Bolt
+2008
+114053579
+Byron Howard
+John Travolta
+Miley Cyrus
+Susie Essman
+Mark Walton
+Malcolm McDowell
+Alvin and the Chipmunks
+2007
+217326336
+Tim Hill
+Jason Lee
+David Cross
+Cameron Richardson
+Jane Lynch
+Justin Long
+Lemony Snicket's A Series of Unfortunate Events
+2004
+118627117
+Brad Silberling
+Jim Carrey
+Liam Aiken
+Emily Browning
+Kara Hoffman
+Shelby Hoffman
+X-Men Origins: Wolverine
+2009
+179883016
+Gavin Hood
+Hugh Jackman
+Liev Schreiber
+Danny Huston
+Will i Am
+Lynn Collins
+Indiana Jones and the Kingdom of the Crystal Skull
+2008
+317011114
+Steven Spielberg
+Harrison Ford
+Cate Blanchett
+Karen Allen
+Shia LaBeouf
+Ray Winstone
+Paul Blart: Mall Cop
+2009
+146336178
+Steve Carr
+Kevin James
+Keir O'Donnell
+Jayma Mays
+Raini Rodriguez
+Shirley Knight
+Cast Away
+2000
+233630478
+Robert Zemeckis
+Paul Sanchez
+Lari White
+Leonid Citer
+David Allen Brooks
+Jelena Papovic
+Forrest Gump
+1994
+329691196
+Robert Zemeckis
+Tom Hanks
+Robin Wright Penn
+Gary Sinise
+Mykelti Williamson
+Sally Field
+Kramer vs. Kramer
+1979
+106300000
+Robert Benton
+Dustin Hoffman
+Meryl Streep
+Jane Alexander
+Justin Henry
+Howard Duff
+Gladiator
+2000
+187670866
+Ridley Scott
+Russell Crowe
+Joaquin Phoenix
+Connie Nielsen
+Oliver Reed
+Richard Harris
+Twister
+1996
+241688385
+Jan de Bont
+Helen Hunt
+Bill Paxton
+Cary Elwes
+Jami Gertz
+Philip Seymour Hoffman
+Vanilla Sky
+2001
+100614858
+Cameron Crowe
+Tom Cruise
+Penelope Cruz
+Cameron Diaz
+Kurt Russell
+Jason Lee
+Transformers
+2007
+318759914
+Michael Bay
+Shia LaBeouf
+Megan Fox
+Josh Duhamel
+Tyrese Gibson
+Rachael Taylor
+Pretty Woman
+1990
+178406268
+Garry Marshall
+Richard Gere
+Julia Roberts
+Ralph Bellamy
+Jason Alexander
+Laura San Giacomo
+Jurassic Park III
+2001
+181166115
+Joe Johnston
+Sam Neill
+William H. Macy
+Tea Leoni
+Alessandro Nivola
+Trevor Morgan
+The Bourne Identity
+2002
+121468960
+Doug Liman
+Matt Damon
+Franka Potente
+Chris Cooper
+Clive Owen
+Brian Cox
+Batman
+1989
+251188924
+Tim Burton
+Michael Keaton
+Jack Nicholson
+Kim Basinger
+Robert Wuhl
+Pat Hingle
+Wanted
+2008
+134294280
+Timur Bekmambetov
+James McAvoy
+Morgan Freeman
+Angelina Jolie
+Terence Stamp
+Thomas Kretschmann
+Iron Man
+2008
+318298180
+Jon Favreau
+Robert Downey Jr.
+Terrence Howard
+Jeff Bridges
+Gwyneth Paltrow
+Leslie Bibb
+The Godfather
+1972
+134821952
+Francis Ford Coppola
+Marlon Brando
+Al Pacino
+James Caan
+Richard S. Castellano
+Robert Duvall
+Troy
+2004
+133228348
+Wolfgang Petersen
+Julian Glover
+Brian Cox
+Nathan Jones
+Adoni Maropis
+Jacob Smith
+One Hundred and One Dalmatians
+1961
+153000000
+Clyde Geronimi
+Rod Taylor
+J. Pat O'Malley
+Betty Lou Gerson
+Martha Wentworth
+Ben Wright
+As Good as It Gets
+1997
+147637474
+James L. Brooks
+Jack Nicholson
+Helen Hunt
+Greg Kinnear
+Cuba Gooding Jr.
+Skeet Ulrich
+Spy Kids
+2001
+112692062
+Robert Rodriguez
+Antonio Banderas
+Carla Gugino
+Alexa Vega
+Daryl Sabara
+Alan Cumming
+Hannibal
+2001
+165091464
+Ridley Scott
+Anthony Hopkins
+Julianne Moore
+Gary Oldman
+Ray Liotta
+Frankie Faison
+The Santa Clause
+1994
+144833357
+John Pasquin
+Tim Allen
+Wendy Crewson
+Judge Reinhold
+Eric Lloyd
+David Krumholtz
+Ace Ventura: When Nature Calls
+1995
+108360000
+Steve Oedekerk
+Jim Carrey
+Ian McNeice
+Simon Callow
+Maynard Eziashi
+Bob Gunton
+Rocky IV
+1985
+127900000
+Sylvester Stallone
+Sylvester Stallone
+Talia Shire
+Burt Young
+Carl Weathers
+Brigitte Nielsen
+Up
+2009
+292979556
+Pete Docter
+Edward Asner
+Christopher Plummer
+Jordan Nagai
+Bob Peterson
+Delroy Lindo
+Sister Act
+1992
+139610000
+Emile Ardolino
+Whoopi Goldberg
+Maggie Smith
+Kathy Najimy
+Wendy Makkena
+Mary Wickes
+American Wedding
+2003
+104354205
+Jesse Dylan
+Jason Biggs
+Seann William Scott
+Alyson Hannigan
+Eddie Kaye Thomas
+Thomas Ian Nicholas
+Back to the Future
+1985
+210609762
+Robert Zemeckis
+Michael J. Fox
+Christopher Lloyd
+Lea Thompson
+Crispin Glover
+Thomas F. Wilson
+Spider-Man 2
+2004
+373377893
+Sam Raimi
+Tobey Maguire
+Kirsten Dunst
+James Franco
+Alfred Molina
+Rosemary Harris
+City Slickers
+1991
+124033791
+Ron Underwood
+Billy Crystal
+Daniel Stern
+Bruno Kirby
+Patricia Wettig
+Helen Slater

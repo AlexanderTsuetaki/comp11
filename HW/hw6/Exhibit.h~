@@ -1,0 +1,67 @@
+// Exhibit.h
+// purpose: to give an exhibit definition to be used in zoo.cpp
+//
+// Author: Alexadner Tsuetaki
+// Date Modified: 11/11/18
+
+#ifndef EXHIBIT_H
+#define EXHIBIT_H
+
+#include "AnimalArrayList.h"
+#include <string>
+
+
+class Exhibit
+{
+public:
+	/*
+	 * Default constructor
+	 */
+	//	Exhibit();
+	
+	/*
+	 * constructor
+	 */
+	Exhibit(std::string n, int th, std::string ty);
+
+	/*
+	 * Frees heap-allocated memory associated with Exhibit
+	 */
+	~Exhibit();
+	
+	/*
+	 * Returns whether or not a given animal belongs to the exhibit
+	 * 
+         */
+	bool belongs(Animal a);
+
+	/*
+	 * adds an animal to the AnimalArrayList of this exhibit
+	 */
+	void add_animal(Animal a);
+
+	/*
+	 * determines if an animal is in the exhibit by the name of the animal
+	 */
+	bool in_Exhibit_name(std::string animal_name);
+
+	/*
+	 * prints the contence of the Exhibit class in a specific way
+	 */
+	void print_list();
+
+	/*
+	 * returns a string of the type value of the Exhibit class
+	 */ 
+	std::string returnType();
+	
+private:
+	
+	std::string name;
+	AnimalArrayList * exhibitAnimals;
+	int theme;
+	std::string type;
+	std::string themeChange(int t);
+};
+
+#endif

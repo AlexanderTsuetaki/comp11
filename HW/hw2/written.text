@@ -1,0 +1,111 @@
+1 - sudo-code for all programs
+bicycles.cpp
+- variables
+	-number of wheels
+	-number of frames
+	-number of links
+	-number of bikes
+
+-initialize variables
+-get use input
+	- if input invalid continue while loop until fixed
+-find the limiting factor 
+	- set the inititial to the number of wheels
+		-(will always be lower than this)
+	- divide number of component by number needed and pick the component
+	that produces the smallest number 
+- set number of bikes to number of limiting factor by number per bike
+- subtract from each factor the number needed per bike * the number of bikes
+- output amount of each variable in correct format
+
+guess.cpp
+- variables
+	-number for the computer
+	-user number
+	-number of tries
+
+- while the number for the comp is not equal to the user number and tries>0
+	- get user input
+	- determin if the user input = the number for the computer
+	- if user input is not the computer number tell if higher or lower
+	- if the user number = the computer number say the user wins
+
+rps.cpp
+-variables
+	- computer choice
+	- user choice
+	- boolean for if the user inputed something not = to 'r','p', or 's'
+
+	-(addition)- array of who wins in what situations
+		- done to reduce number of if statements 
+
+-gets user input
+	- cleans user input by changin upper case to lower case
+	- set the boolean to false unless user inputs something not r,p,s
+- output what the computer chose
+- output who won
+	- use array and cleaned user data(changed to p=0,r=1,s=2)
+
+
+flights.cpp
+-Variables
+	- makes array to contain both flights
+	- amount of time in mins for layover
+	- amount of time in mins for total trip
+
+- gets user input
+- gets layover by subtracting flight1 arrival time from flight2 departure time
+	- adds 24 hours* 60 minutes to account for if time wraps back to 00:00
+	at any point
+	- 23:00 to 1:00 is 2 hours 1-23+24 = 2 hours
+- gets gets total time by taking subtracting the a flights departue time from
+its arrival time( done twice for each flight)
+	- for each flight, adds 24*60 if time wraps back to 
+	00:00 at some point
+	-23:00 to 2:00 is 3 hours 2-23 +24 = 3 hours
+-adds the layover time to the total time
+-outputs the nessisary information (layover time and total time)
+	- hrs  = time / 60
+	- mins = time % 60 
+
+
+
+2- fix the awful code
+int main(){ 
+	int age=100;
+	string name="Sally";
+	string job ="Super Star";
+	if(name == "Sally" and  job == "Super Star" ){
+		cout << "Hi Sally" <<endl << "You are a super star!!" <<endl;
+        	if(age == 100 || age != 42 and name != job){
+			cout<< "Have a nice day!"<<endl;
+		}
+	}
+	else{
+		cout << "This isn't Sally...Goodbye!!"<<endl;
+	}
+	return 0;
+}
+
+
+
+3- rps testing
+-I first tested 'r', 'p' and 's'. as the program outputs what that computer
+chooses, I was able to discern if it was working correctly.
+I ran the program untill all possible states were explored. at this point 
+the program outputed the expected result. (i.e. r>p p>s s>r)
+
+-Next i tested 'R', 'P' and 'S' to see if the program could handle  capital
+letters, test was a success and the program outputed the expeted result in all
+possible states.
+
+-finally i tested characters that were not 'r','p',or 's' such as a, b,c, etc.
+the program sucessfully outputed that it was an invalid responce and promted 
+the question again.
+
+
+4 -song request
+My song request: 
+come sail away: styx
+
+

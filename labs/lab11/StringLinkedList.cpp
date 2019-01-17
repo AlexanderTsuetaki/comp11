@@ -1,0 +1,238 @@
+/*
+ * Linked lists of strings.
+ *
+ * (c) Mark A. Sheldon, Tufts University, Spring 2018
+ */
+
+#include <iostream>
+#include <stdexcept>
+
+#include "StringLinkedList.h"
+
+using namespace std;
+
+/*
+ * Useful functions for allocating a new Node on the heap
+ * and initializing it.
+ * Native C++ speakers would make Node constructors for this.
+ *
+ * StringLinkedList:: is required before the function, because
+ * C++ hasn't realized this function is in the class yet.
+ */
+StringLinkedList::Node *StringLinkedList::newNode(string s, Node *next)
+{
+        Node *result = new Node;
+
+        result->element = s;
+        result->next    = next;
+
+        return result;
+}
+
+StringLinkedList::Node *StringLinkedList::newNode(string s)
+{
+        return newNode(s, nullptr);
+}
+
+/*
+ * Initialize an empty list
+ */
+StringLinkedList::StringLinkedList()
+{
+        // TODO:  initialize linked list
+	ptr = nullptr;
+}
+
+/*
+ * Reclaim all heap-allocated data associate with list
+ */
+StringLinkedList::~StringLinkedList()
+{
+        // TODO:  free all heap storage
+	Node *temp = ptr;
+	Node *temp2 = (*ptr).next;
+	while((*temp2).next != nullptr){
+		delete temp;
+		temp = temp2;
+		temp2 = (*temp).next;
+	}
+}
+
+/*
+ * Return true if the list is empty, false otherwise
+ */ 
+bool StringLinkedList::isEmpty()
+{
+        // TODO:  Replace this is correct implementation
+	if((*ptr).next == nullptr){
+		return true;
+	}
+        return false;
+}
+
+/*
+ * Add the given string to the front of the list
+ */
+void StringLinkedList::addToFront(string s)
+{
+        Node *temp = new Node ;
+	(*temp).element = s;
+	(*temp).next = ptr;
+	ptr = temp;
+}
+
+/*
+ * Remove the first element (and associated node) from the list
+ * Assumes the list is non-empty.
+ */
+void StringLinkedList::removeFirst()
+{
+	Node *temp = (*ptr).next;
+	ptr = nullptr;
+	ptr = temp;
+}
+
+/*
+ * Return first element in the list.
+ * Assume list is non-empty.
+ */
+string StringLinkedList::firstElement()
+{
+        // TODO:  Replace this with a correct implementation
+        return (*ptr).element;
+}
+
+/*
+ * Print the list elements between square brackets, separated
+ * by commas.  E. g.,  [] is the empty list.  
+ * [monarch, swallowtail, peacock] is a list of three strings.
+ *
+ * There is no newline at the end.
+ */
+void StringLinkedList::print()
+{
+        // TODO
+	Node *temp = ptr;
+	while(temp != nullptr){
+		cout << (*temp).element;
+		temp = (*temp).next;
+	}
+}
+
+/*
+ * Return the length of the list.
+ * Do this with a loop here.
+ * If you have time, you can re-write this using a recursive helper
+ * function that takes a pointer to a Node as an argument.
+ */
+int StringLinkedList::length()
+{
+        // TODO:  replace this with a correct definition
+        //        First, just write a loop here.  Test it.
+        //        Then use length(front), which should be
+        //        written recursively.
+	Node *temp = ptr;
+	int total = 0;
+	while(temp != nullptr){
+		total += 1;
+		temp = (*temp).next;
+	}
+        return total;
+}
+
+/*
+ * Add the given string to the back of the list.
+ */
+void StringLinkedList::addToBack(string s)
+{
+        // TODO
+	Node *n = new Node;
+	Node *temp = ptr;
+	(*n).element = s;
+	bool go = true;
+	while(go){
+		if((*temp).next == nullptr){
+			(*temp).next = n;
+			go = false;
+		}
+		temp = (*temp).next;
+	}
+}
+
+/*
+ * Add the given string to the list so that it is at the given
+ * position.  Are you going to check the validity of the position
+ * somehow? 
+ */
+void StringLinkedList::addAtPosition(string s, int position)
+{
+        // TODO if you have time
+	Node *temp = ptr;
+	Node *n = new Node;
+	(*n).element = s;
+	int go = 0;
+	if(position == 0)
+		addToFront(s);		
+	else{
+		while(go < position);{
+			go++;
+			if(go == position){
+				(*n).next = (*temp).next;
+				(*temp).next = n;
+			}
+			temp = (*temp).next;
+		}
+	}
+}
+
+/*
+ * Recursively calculate length
+ */
+int StringLinkedList::length(Node *current)
+{
+        // TODO if you have time
+        return -1;
+}
+
+/*
+ * Print the list in a more (ASCII)artistic fashion.
+ * The empty list prints as ()
+ * A 3-element list prints like this:
+ * "monarch" ~> "swallowtail" ~> "peacock" ~> ()
+ */
+void StringLinkedList::printArtistically()
+{
+        printArtistically(ptr);
+}
+
+/*
+ * Print a list in the artistic fashion described above starting at
+ * given node.
+ */
+void StringLinkedList::printArtistically(Node *current)
+{
+        // TODO if you have time
+}
+
+/*
+ * Remove all occurrences of given string, s from the list
+ */
+void StringLinkedList::remove(string s)
+{
+        ptr = removeRec(s, ptr);
+}
+
+/*
+ * Remove the first occurrence of s from the list starting at
+ * firstNode.
+ * Return a pointer to the first node in the updated list.
+ * If s does not occur in list, no change is made and firstNode is
+ * returned. 
+ */
+StringLinkedList::Node *StringLinkedList::removeRec(string s, Node *firstNode)
+{
+        // TODO if you have time
+        //      Replace this body with a recursive solution
+        return nullptr;
+}
+

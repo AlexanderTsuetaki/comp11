@@ -1,0 +1,80 @@
+BankAccount:  
+  { owner    = Brunhilde,
+    number   = 0,
+    balance  = 1000.00,
+    interest = 1.95
+  }
+BankAccount:  
+  { owner    = Frigg,
+    number   = 1,
+    balance  = 957.50,
+    interest = 2.00
+  }
+BankAccount:  
+  { owner    = Freyja,
+    number   = 2,
+    balance  = 2568.47,
+    interest = 1.88
+  }
+BankAccount:  
+  { owner    = Balder,
+    number   = 3,
+    balance  = 522.88,
+    interest = 2.04
+  }
+Depositing 100 for Brunhilde
+Withdrawing 120 from Frigg
+Depositing 140 for Freyja
+Withdrawing 160 from Balder
+BankAccount:  
+  { owner    = Brunhilde,
+    number   = 0,
+    balance  = 1100.00,
+    interest = 1.95
+  }
+BankAccount:  
+  { owner    = Frigg,
+    number   = 1,
+    balance  = 837.50,
+    interest = 2.00
+  }
+BankAccount:  
+  { owner    = Freyja,
+    number   = 2,
+    balance  = 2708.47,
+    interest = 1.88
+  }
+BankAccount:  
+  { owner    = Balder,
+    number   = 3,
+    balance  = 362.88,
+    interest = 2.04
+  }
+Applying intest for Brunhilde
+Applying intest for Frigg
+Applying intest for Freyja
+Applying intest for Balder
+BankAccount:  
+  { owner    = Brunhilde,
+    number   = 0,
+    balance  = 1121.45,
+    interest = 1.95
+  }
+BankAccount:  
+  { owner    = Frigg,
+    number   = 1,
+    balance  = 854.25,
+    interest = 2.00
+  }
+BankAccount:  
+  { owner    = Freyja,
+    number   = 2,
+    balance  = 2759.39,
+    interest = 1.88
+  }
+BankAccount:  
+  { owner    = Balder,
+    number   = 3,
+    balance  = 370.28,
+    interest = 2.04
+  }
