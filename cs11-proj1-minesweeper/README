@@ -1,0 +1,17 @@
+Alexander Tsuetaki
+
+10/21/18
+
+******************************************************
+minesweeper:
+
+cpp code for a terminal based 9*9 minesweeper game
+
+******************************************************
+minesweeper-extra:
+
+modified cpp code for minesweeper game to change
+number of mines
+
+******************************************************
+Compile using g++ -Wall -o minesweeper minesweeper.cpp

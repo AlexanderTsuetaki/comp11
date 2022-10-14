@@ -1,0 +1,30 @@
+Alexander Tsuetaki
+
+10/6/18
+
+***************************
+Terminal based 2048 game
+***************************
+Game:
+Terminal based 2048 
+
+Use wasd for controls
+Quit : q
+
+HighScores:
+h: prints top5 scores
+show: prints all of a users scores
+clear: clears the leaderboard
+keep: removes all but the top 10 scores
+
+
+Compile with: 
+g++ -Wall highScoresList.h 
+	highScoresList.cpp 
+	game.h game.cpp 
+	int-string.h int-string.cpp 
+	2048.cpp
+
+***************************
+Tester:
+Tests the high score feature

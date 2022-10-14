@@ -1,0 +1,35 @@
+Test Cases
+______________________________________________________________________________
+| Input | Output                    | Importance                             |
+|_______|___________________________|________________________________________|
+| 0,0   | displays mine value of 0,0| Shows the program works for a default  | 
+|       |                           | case with no bad inputs                |
+|_______|___________________________|________________________________________|
+| 5,6   | displays mine value of 5,6| Shows the program works when row and   |
+|       |                           | col are different.                     |
+|_______|___________________________|________________________________________|
+| -1,5  | displays "Bad input. Row  | Shows the program works correctly for  |
+|       | and col must be >= 0 and <| bad input < 0                          |
+|       | 9."                       |                                        |
+|_______|___________________________|________________________________________|
+| 0,9   | displays "Bad input. Row  | Shows the program works correctly for  |
+|       | and col must be >= 0 and <| bad input > 8                          |
+|       | 9."                       |                                        |
+|_______|___________________________|________________________________________|
+| 5,6   | displays "Bad input.      | Shows the program works correctly for  |
+|(again)| Select another square."   | bad input: square already showing      |
+|_______|___________________________|________________________________________|
+| 1,0   | displays the board with x | Shows the program works correctly for  |
+|(mine) |(displays the mine and end)| mines and ends the game                |
+|       | "GAME OVER. YOU LOST!"    |                                        |
+|_______|___________________________|________________________________________|
+| 8,8   | displays the last input   | Shows the program works correctly for  |
+|(last) | ends the game correctly | the end game and prints out the right    |
+|       | "GAME OVER. YOU WON!"     | game over message                      |
+|_______|___________________________|________________________________________|
+| 9,0   | displays "Bad input. Row  | Shows the program works correctly for s | 
+|       | and col must be >= 0 and <| bad inputs that both inputs            |
+|       | 9."                       |                                        |
+|_______|___________________________|________________________________________|
+
+
